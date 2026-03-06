@@ -1,0 +1,42 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+.theme-desktop {
+  --font-size-core-font-size-50: 12px;
+  --font-size-core-font-size-75: 14px;
+  --font-size-core-font-size-100: 16px;
+  --font-size-core-font-size-125: 18px;
+  --font-size-core-font-size-150: 20px;
+  --font-size-core-font-size-175: 22px;
+  --font-size-core-font-size-200: 24px;
+  --font-size-core-font-size-250: 28px;
+  --font-size-core-font-size-300: 32px;
+  --font-size-core-font-size-350: 36px;
+  --font-size-core-font-size-400: 40px;
+  --font-size-core-font-size-425: 42px;
+  --font-size-core-font-size-500: 48px;
+  --font-size-core-font-size-550: 52px;
+  --font-size-core-font-size-700: 64px;
+  --font-size-core-font-size-850: 76px;
+  --font-size-core-175: 14px;
+  --font-size-core-450: 36px;
+  --font-size-core-font-size-325: 34px;
+  --font-size-semantic-display-l-font-size: var(--font-size-core-font-size-850);
+  --font-size-semantic-display-m-font-size: var(--font-size-core-font-size-700);
+  --font-size-semantic-display-s-font-size: var(--font-size-core-font-size-550);
+  --font-size-semantic-heading-l-font-size: var(--font-size-core-font-size-500);
+  --font-size-semantic-heading-m-font-size: var(--font-size-core-font-size-425);
+  --font-size-semantic-heading-s-font-size: var(--font-size-core-font-size-300);
+  --font-size-semantic-title-l-font-size: var(--font-size-core-font-size-250);
+  --font-size-semantic-title-m-font-size: var(--font-size-core-font-size-175);
+  --font-size-semantic-title-s-font-size: var(--font-size-core-font-size-150);
+  --font-size-semantic-body-l-font-size: var(--font-size-core-font-size-150);
+  --font-size-semantic-body-m-font-size: var(--font-size-core-font-size-100);
+  --font-size-semantic-body-s-font-size: var(--font-size-core-font-size-75);
+  --font-size-semantic-body-xs-font-size: var(--font-size-core-font-size-50);
+  --font-size-semantic-label-l-font-size: var(--font-size-core-font-size-100);
+  --font-size-semantic-label-m-font-size: var(--font-size-core-font-size-75);
+  --font-size-semantic-label-s-font-size: var(--font-size-core-font-size-50);
+  --font-size-semantic-label-xs-font-size: var(--dimension-core-font-size-25);
+}
