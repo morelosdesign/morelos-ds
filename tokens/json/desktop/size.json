@@ -1,0 +1,57 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "semantic": {
+    "width": {
+      "md": {
+        "value": "{core.6000}",
+        "type": "size"
+      },
+      "2xs": {
+        "value": "{core.1500}",
+        "type": "size"
+      },
+      "xs": {
+        "value": "{core.3100}",
+        "type": "size"
+      },
+      "sm": {
+        "value": "{core.4200}",
+        "type": "size"
+      },
+      "lg": {
+        "value": "{core.7500}",
+        "type": "size"
+      },
+      "main": {
+        "value": "{core.18000}",
+        "type": "size"
+      }
+    },
+    "max-w": {
+      "sm": {
+        "value": "{core.2650}",
+        "type": "size"
+      },
+      "md": {
+        "value": "{core.3200}",
+        "type": "size"
+      },
+      "lg": {
+        "value": "{core.7500}",
+        "type": "size"
+      },
+      "xl": {
+        "value": "{core.6500}",
+        "type": "size"
+      },
+      "2xl": {
+        "value": "{core.7600}",
+        "type": "size"
+      },
+      "3xl": {
+        "value": "{core.18000}",
+        "type": "size"
+      }
+    }
+  }
+}

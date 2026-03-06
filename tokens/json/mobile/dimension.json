@@ -1,0 +1,207 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "core": {
+    "100": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "150": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "200": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "300": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "575": {
+      "value": "92px",
+      "type": "dimension"
+    },
+    "600": {
+      "value": "48px",
+      "type": "dimension"
+    },
+    "1500": {
+      "value": "120px",
+      "type": "dimension"
+    },
+    "2100": {
+      "value": "248px",
+      "type": "dimension"
+    },
+    "2375": {
+      "value": "380px",
+      "type": "dimension"
+    },
+    "2650": {
+      "value": "336px",
+      "type": "dimension"
+    },
+    "3100": {
+      "value": "248px",
+      "type": "dimension"
+    },
+    "3200": {
+      "value": "512px",
+      "type": "dimension"
+    },
+    "4200": {
+      "value": "336px",
+      "type": "dimension"
+    },
+    "4500": {
+      "value": "360px",
+      "type": "dimension"
+    },
+    "6000": {
+      "value": "480px",
+      "type": "dimension"
+    },
+    "6500": {
+      "value": "1040px",
+      "type": "dimension"
+    },
+    "7500": {
+      "value": "1040px",
+      "type": "dimension"
+    },
+    "7600": {
+      "value": "1216px",
+      "type": "dimension"
+    },
+    "9600": {
+      "value": "768px",
+      "type": "dimension"
+    },
+    "12800": {
+      "value": "1024px",
+      "type": "dimension"
+    },
+    "18000": {
+      "value": "1440px",
+      "type": "dimension"
+    },
+    "025": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "050": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "font-size": {
+      "25": {
+        "value": "10px",
+        "type": "dimension"
+      }
+    },
+    "line-height": {
+      "75": {
+        "value": "14px",
+        "type": "dimension"
+      },
+      "100": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "125": {
+        "value": "18px",
+        "type": "dimension"
+      },
+      "150": {
+        "value": "20px",
+        "type": "dimension"
+      },
+      "175": {
+        "value": "22px",
+        "type": "dimension"
+      },
+      "200": {
+        "value": "24px",
+        "type": "dimension"
+      },
+      "225": {
+        "value": "26px",
+        "type": "dimension"
+      },
+      "250": {
+        "value": "28px",
+        "type": "dimension"
+      },
+      "275": {
+        "value": "30px",
+        "type": "dimension"
+      },
+      "300": {
+        "value": "32px",
+        "type": "dimension"
+      },
+      "350": {
+        "value": "36px",
+        "type": "dimension"
+      },
+      "400": {
+        "value": "40px",
+        "type": "dimension"
+      },
+      "425": {
+        "value": "42px",
+        "type": "dimension"
+      },
+      "450": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "500": {
+        "value": "48px",
+        "type": "dimension"
+      },
+      "525": {
+        "value": "50px",
+        "type": "dimension"
+      },
+      "550": {
+        "value": "52px",
+        "type": "dimension"
+      },
+      "600": {
+        "value": "56px",
+        "type": "dimension"
+      },
+      "625": {
+        "value": "60px",
+        "type": "dimension"
+      },
+      "675": {
+        "value": "64px",
+        "type": "dimension"
+      },
+      "775": {
+        "value": "72px",
+        "type": "dimension"
+      },
+      "825": {
+        "value": "76px",
+        "type": "dimension"
+      },
+      "950": {
+        "value": "86px",
+        "type": "dimension"
+      }
+    },
+    "letter-spacing": {
+      "none": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "accesible": {
+        "value": "0.12px",
+        "type": "dimension"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "semantic": {
+    "border-radius": {
+      "round": {
+        "value": "999px",
+        "type": "borderRadius"
+      },
+      "xs": {
+        "value": "{core.050}",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "{core.100}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{core.200}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{core.300}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{core.450}",
+        "type": "borderRadius"
+      },
+      "focus": {
+        "value": "{core.050}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
