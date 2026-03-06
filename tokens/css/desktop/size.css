@@ -1,0 +1,18 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+.theme-desktop {
+  --size-semantic-width-md: var(--dimension-core-6000);
+  --size-semantic-max-w-sm: var(--dimension-core-2650);
+  --size-semantic-max-w-md: var(--dimension-core-3200);
+  --size-semantic-max-w-lg: var(--dimension-core-7500);
+  --size-semantic-max-w-xl: var(--dimension-core-6500);
+  --size-semantic-max-w-2xl: var(--dimension-core-7600);
+  --size-semantic-max-w-3xl: var(--dimension-core-18000);
+  --size-semantic-width-2xs: var(--dimension-core-1500);
+  --size-semantic-width-xs: var(--dimension-core-3100);
+  --size-semantic-width-sm: var(--dimension-core-4200);
+  --size-semantic-width-lg: var(--dimension-core-7500);
+  --size-semantic-width-main: var(--dimension-core-18000);
+}

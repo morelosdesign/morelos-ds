@@ -1,0 +1,33 @@
+/* Theme: Light */
+@import "./light/color.css";
+
+/* Theme: Dark */
+@import "./dark/color.css";
+
+/* Theme: High Contrast */
+@import "./high-contrast/color.css";
+
+/* Theme: Gray Scale */
+@import "./gray-scale/color.css";
+
+/* Theme: Desktop */
+@import "./desktop/dimension.css";
+@import "./desktop/font-family.css";
+@import "./desktop/string.css";
+@import "./desktop/font-size.css";
+@import "./desktop/border-radius.css";
+@import "./desktop/size.css";
+@import "./desktop/space.css";
+@import "./desktop/line-height.css";
+@import "./desktop/letter-spacing.css";
+
+/* Theme: Mobile */
+@import "./mobile/dimension.css";
+@import "./mobile/font-family.css";
+@import "./mobile/string.css";
+@import "./mobile/font-size.css";
+@import "./mobile/border-radius.css";
+@import "./mobile/size.css";
+@import "./mobile/space.css";
+@import "./mobile/line-height.css";
+@import "./mobile/letter-spacing.css";
