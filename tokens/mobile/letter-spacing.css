@@ -1,0 +1,23 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+.theme-mobile {
+  --letter-spacing-semantic-display-l-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-display-m-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-display-s-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-heading-l-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-heading-m-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-heading-s-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-title-l-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-title-m-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-title-s-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-body-l-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-body-m-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-body-s-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-body-xs-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-label-l-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-label-m-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-label-s-letter-spacing: var(--dimension-core-letter-spacing-none);
+  --letter-spacing-semantic-label-xs-letter-spacing: var(--dimension-core-letter-spacing-none);
+}

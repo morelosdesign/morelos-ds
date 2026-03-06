@@ -1,0 +1,27 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+.theme-desktop {
+  --string-core-font-weight-light: "Light";
+  --string-core-font-weight-regular: "Regular";
+  --string-core-font-weight-medium: "Medium";
+  --string-core-font-weight-semibold: "Semibold";
+  --string-semantic-display-l-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-display-m-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-display-s-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-heading-l-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-heading-m-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-heading-s-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-title-l-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-title-m-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-title-s-font-weight: var(--string-core-font-weight-regular);
+  --string-semantic-body-l-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-body-m-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-body-s-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-body-xs-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-label-l-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-label-m-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-label-s-font-weight: var(--string-core-font-weight-light);
+  --string-semantic-label-xs-font-weight: var(--string-core-font-weight-light);
+}
