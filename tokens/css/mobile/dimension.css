@@ -1,0 +1,55 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+.theme-mobile {
+  --dimension-core-025: 4px;
+  --dimension-core-200: 16px;
+  --dimension-core-300: 24px;
+  --dimension-core-600: 48px;
+  --dimension-core-575: 92px;
+  --dimension-core-1500: 120px;
+  --dimension-core-3100: 248px;
+  --dimension-core-2100: 248px;
+  --dimension-core-2375: 380px;
+  --dimension-core-2650: 336px;
+  --dimension-core-3200: 512px;
+  --dimension-core-7500: 1040px;
+  --dimension-core-6500: 1040px;
+  --dimension-core-7600: 1216px;
+  --dimension-core-18000: 1440px;
+  --dimension-core-050: 4px;
+  --dimension-core-100: 8px;
+  --dimension-core-150: 12px;
+  --dimension-core-font-size-25: 10px;
+  --dimension-core-line-height-75: 14px;
+  --dimension-core-line-height-100: 16px;
+  --dimension-core-line-height-125: 18px;
+  --dimension-core-line-height-150: 20px;
+  --dimension-core-line-height-175: 22px;
+  --dimension-core-line-height-200: 24px;
+  --dimension-core-line-height-225: 26px;
+  --dimension-core-line-height-250: 28px;
+  --dimension-core-line-height-275: 30px;
+  --dimension-core-line-height-300: 32px;
+  --dimension-core-line-height-350: 36px;
+  --dimension-core-line-height-400: 40px;
+  --dimension-core-line-height-425: 42px;
+  --dimension-core-line-height-450: 44px;
+  --dimension-core-line-height-500: 48px;
+  --dimension-core-line-height-525: 50px;
+  --dimension-core-line-height-550: 52px;
+  --dimension-core-line-height-600: 56px;
+  --dimension-core-line-height-625: 60px;
+  --dimension-core-line-height-675: 64px;
+  --dimension-core-line-height-775: 72px;
+  --dimension-core-line-height-825: 76px;
+  --dimension-core-line-height-950: 86px;
+  --dimension-core-letter-spacing-none: 0px;
+  --dimension-core-letter-spacing-accesible: 0.12px;
+  --dimension-core-4200: 336px;
+  --dimension-core-4500: 360px;
+  --dimension-core-6000: 480px;
+  --dimension-core-9600: 768px;
+  --dimension-core-12800: 1024px;
+}

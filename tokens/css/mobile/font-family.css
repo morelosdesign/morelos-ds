@@ -1,0 +1,12 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+.theme-mobile {
+  --font-family-core-font-family-primary: "Karol Sans";
+  --font-family-core-font-family-secondary: "Twogether Sans";
+  --font-family-core-font-family-tertiary: "Quetzalli Sans";
+  --font-family-semantic-heading-l-font-family: var(--font-family-core-font-family-secondary);
+  --font-family-semantic-heading-m-font-family: var(--font-family-core-font-family-secondary);
+  --font-family-semantic-heading-s-font-family: var(--font-family-core-font-family-secondary);
+}
