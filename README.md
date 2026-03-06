@@ -6,8 +6,6 @@ Toda la salida de diseño se encuentra en la carpeta /tokens, organizada por tec
 
 - /tokens/css: Variables nativas de CSS para proyectos web estándar.
 
-- /tokens/scss: Variables para proyectos que utilicen Sass.
-
 - /tokens/json: Los datos puros en formato JSON. Ideal si usas herramientas como Style Dictionary para transformar estos tokens a otros formatos (Android, iOS, etc.).
 
 - /tokens/tailwind: Configuración lista para copiar en proyectos que usen Tailwind CSS.
