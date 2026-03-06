@@ -1,4 +1,4 @@
-# Design Tokens Repository
+# Repositorio oficial de Tokens para el DS del Gobierno de Morelos
 Este repositorio es la fuente única de verdad de nuestro sistema de diseño. Aquí encontrarás los valores de color, tipografía, espaciado y otros estilos exportados directamente desde Figma a través de una automatización de Supernova.io.
 
 ## ¿Dónde están los archivos?
