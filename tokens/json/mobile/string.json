@@ -1,0 +1,137 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "core": {
+    "font-weight": {
+      "light": {
+        "value": "Light",
+        "type": "string"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "string"
+      },
+      "semibold": {
+        "value": "Semibold",
+        "type": "string"
+      }
+    }
+  },
+  "semantic": {
+    "display": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      }
+    },
+    "heading": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      }
+    },
+    "title": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      }
+    },
+    "body": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
+      "xs": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      }
+    },
+    "label": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
+      "xs": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

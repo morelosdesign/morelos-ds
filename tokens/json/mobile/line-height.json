@@ -1,0 +1,117 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "semantic": {
+    "display": {
+      "l": {
+        "line-height": {
+          "value": "{core.line-height.600}",
+          "type": "lineHeight"
+        }
+      },
+      "m": {
+        "line-height": {
+          "value": "{core.line-height.525}",
+          "type": "lineHeight"
+        }
+      },
+      "s": {
+        "line-height": {
+          "value": "{core.line-height.500}",
+          "type": "lineHeight"
+        }
+      }
+    },
+    "heading": {
+      "l": {
+        "line-height": {
+          "value": "{core.line-height.450}",
+          "type": "lineHeight"
+        }
+      },
+      "m": {
+        "line-height": {
+          "value": "{core.line-height.400}",
+          "type": "lineHeight"
+        }
+      },
+      "s": {
+        "line-height": {
+          "value": "{core.line-height.300}",
+          "type": "lineHeight"
+        }
+      }
+    },
+    "title": {
+      "l": {
+        "line-height": {
+          "value": "{core.line-height.300}",
+          "type": "lineHeight"
+        }
+      },
+      "m": {
+        "line-height": {
+          "value": "{core.line-height.250}",
+          "type": "lineHeight"
+        }
+      },
+      "s": {
+        "line-height": {
+          "value": "{core.line-height.225}",
+          "type": "lineHeight"
+        }
+      }
+    },
+    "body": {
+      "l": {
+        "line-height": {
+          "value": "{core.line-height.225}",
+          "type": "lineHeight"
+        }
+      },
+      "m": {
+        "line-height": {
+          "value": "{core.line-height.200}",
+          "type": "lineHeight"
+        }
+      },
+      "s": {
+        "line-height": {
+          "value": "{core.line-height.175}",
+          "type": "lineHeight"
+        }
+      },
+      "xs": {
+        "line-height": {
+          "value": "{core.line-height.150}",
+          "type": "lineHeight"
+        }
+      }
+    },
+    "label": {
+      "l": {
+        "line-height": {
+          "value": "{core.line-height.125}",
+          "type": "lineHeight"
+        }
+      },
+      "m": {
+        "line-height": {
+          "value": "{core.line-height.100}",
+          "type": "lineHeight"
+        }
+      },
+      "s": {
+        "line-height": {
+          "value": "{core.line-height.100}",
+          "type": "lineHeight"
+        }
+      },
+      "xs": {
+        "line-height": {
+          "value": "{core.line-height.75}",
+          "type": "lineHeight"
+        }
+      }
+    }
+  }
+}

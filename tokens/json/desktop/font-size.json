@@ -1,0 +1,197 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "core": {
+    "175": {
+      "value": "14px",
+      "type": "fontSize"
+    },
+    "450": {
+      "value": "36px",
+      "type": "fontSize"
+    },
+    "font-size": {
+      "50": {
+        "value": "12px",
+        "type": "fontSize"
+      },
+      "75": {
+        "value": "14px",
+        "type": "fontSize"
+      },
+      "100": {
+        "value": "16px",
+        "type": "fontSize"
+      },
+      "125": {
+        "value": "18px",
+        "type": "fontSize"
+      },
+      "150": {
+        "value": "20px",
+        "type": "fontSize"
+      },
+      "175": {
+        "value": "22px",
+        "type": "fontSize"
+      },
+      "200": {
+        "value": "24px",
+        "type": "fontSize"
+      },
+      "250": {
+        "value": "28px",
+        "type": "fontSize"
+      },
+      "300": {
+        "value": "32px",
+        "type": "fontSize"
+      },
+      "325": {
+        "value": "34px",
+        "type": "fontSize"
+      },
+      "350": {
+        "value": "36px",
+        "type": "fontSize"
+      },
+      "400": {
+        "value": "40px",
+        "type": "fontSize"
+      },
+      "425": {
+        "value": "42px",
+        "type": "fontSize"
+      },
+      "500": {
+        "value": "48px",
+        "type": "fontSize"
+      },
+      "550": {
+        "value": "52px",
+        "type": "fontSize"
+      },
+      "700": {
+        "value": "64px",
+        "type": "fontSize"
+      },
+      "850": {
+        "value": "76px",
+        "type": "fontSize"
+      }
+    }
+  },
+  "semantic": {
+    "display": {
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.850}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.700}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.550}",
+          "type": "fontSize"
+        }
+      }
+    },
+    "heading": {
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.500}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.425}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.300}",
+          "type": "fontSize"
+        }
+      }
+    },
+    "title": {
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.250}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.175}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.150}",
+          "type": "fontSize"
+        }
+      }
+    },
+    "body": {
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.150}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.100}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.75}",
+          "type": "fontSize"
+        }
+      },
+      "xs": {
+        "font-size": {
+          "value": "{core.font-size.50}",
+          "type": "fontSize"
+        }
+      }
+    },
+    "label": {
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.100}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.75}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.50}",
+          "type": "fontSize"
+        }
+      },
+      "xs": {
+        "font-size": {
+          "value": "{core.font-size.25}",
+          "type": "fontSize"
+        }
+      }
+    }
+  }
+}
