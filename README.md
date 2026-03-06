@@ -27,3 +27,10 @@ _Nota para Devs: El equipo responsable de validar los tokens recibira una notifi
 No editar manualmente: Por favor, no modifiquen los archivos dentro de /. Cualquier cambio manual se perderá la próxima vez que yo actualice Figma.
 
 Nomenclatura: Los nombres de las variables se generan automáticamente. Si necesitan un formato de nombre diferente, avísenme para ajustar la configuración en Supernova.
+
+## Estado del Sistema (Fase de Implementación)
+Este repositorio está en proceso de construcción durante este año. Para que la integración sea lo más fluida posible, ten en cuenta lo siguiente:
+
+Evolución constante: Como estamos en una fase activa de diseño, es probable que veas ajustes en nombres de tokens o en la organización de archivos. Todo será notificado con previo aviso.
+
+La comunicación es clave: Si ves algo que no te cuadra, algún nombre confuso o crees que la estructura podría ser mejor para tu flujo de trabajo, avísanos directamente.
