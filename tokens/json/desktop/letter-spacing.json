@@ -1,0 +1,117 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "semantic": {
+    "display": {
+      "l": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "m": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "s": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      }
+    },
+    "heading": {
+      "l": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "m": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "s": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      }
+    },
+    "title": {
+      "l": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "m": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "s": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      }
+    },
+    "body": {
+      "l": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "m": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "s": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "xs": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      }
+    },
+    "label": {
+      "l": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "m": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "s": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      },
+      "xs": {
+        "letter-spacing": {
+          "value": "{core.letter-spacing.none}",
+          "type": "letterSpacing"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "core": {
+    "font-family": {
+      "primary": {
+        "value": "Karol Sans",
+        "type": "fontFamily"
+      },
+      "secondary": {
+        "value": "Twogether Sans",
+        "type": "fontFamily"
+      },
+      "tertiary": {
+        "value": "Quetzalli Sans",
+        "type": "fontFamily"
+      }
+    }
+  },
+  "semantic": {
+    "heading": {
+      "l": {
+        "font-family": {
+          "value": "{core.font-family.secondary}",
+          "type": "fontFamily"
+        }
+      },
+      "m": {
+        "font-family": {
+          "value": "{core.font-family.secondary}",
+          "type": "fontFamily"
+        }
+      },
+      "s": {
+        "font-family": {
+          "value": "{core.font-family.secondary}",
+          "type": "fontFamily"
+        }
+      }
+    }
+  }
+}
