@@ -17,7 +17,7 @@ _Nota para Devs: Si se necesitaran nuevas exportaciones, pueden solicitarlas al 
 La forma más simple de consumir los tokens CSS es vía CDN, sin instalar nada:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/morelosdesign/morelos-ds@main/tokens/css/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/morelosdesign/morelos-ds@main/tokens/css/all.css">
 ```
 
 Luego aplica las clases de tema en tu elemento `<body>`:
