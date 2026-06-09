@@ -12,6 +12,40 @@ Toda la salida de diseño se encuentra en la carpeta /tokens, organizada por tec
 
 _Nota para Devs: Si se necesitaran nuevas exportaciones, pueden solicitarlas al equipo de diseño._
 
+## Instalación rápida para proyectos web
+
+La forma más simple de consumir los tokens CSS es vía CDN, sin instalar nada:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/morelosdesign/morelos-ds@main/tokens/css/index.css">
+```
+
+Luego aplica las clases de tema en tu elemento `<body>`:
+
+```html
+<body class="theme-light theme-desktop">
+```
+
+### Clases de tema disponibles
+
+| Categoría | Clase | Descripción |
+|-----------|-------|-------------|
+| Color | `theme-light` | Paleta clara (default) |
+| Color | `theme-dark` | Paleta oscura |
+| Color | `theme-high-contrast` | Alto contraste (accesibilidad) |
+| Color | `theme-gray-scale` | Escala de grises |
+| Tamaños | `theme-desktop` | Tipografía y espaciado para desktop |
+| Tamaños | `theme-mobile` | Tipografía y espaciado para mobile |
+
+### ⚠️ Aviso importante sobre `@main`
+
+El enlace de arriba apunta siempre a la última versión del repositorio. Esto significa:
+
+- Los tokens se actualizan automáticamente cuando el equipo de diseño hace un merge.
+- Si se renombra o elimina un token, **tu página puede verse afectada sin previo aviso**.
+
+Esto es aceptable durante la fase activa de construcción del DS. Cuando el sistema esté estable, se publicarán versiones etiquetadas (`@v1.0.0`) para que cada proyecto pueda actualizar de forma controlada.
+
 ## ¿Cómo se actualiza esto?
 Se ha configurado un flujo automático para que el repositorio siempre esté al día:
 
