@@ -1,0 +1,161 @@
+/**
+ * Compound Typography Tokens — Morelos DS
+ *
+ * Archivo mantenido manualmente. Supernova no genera composiciones tipograficas.
+ * Para modificar, contacta al equipo de diseno.
+ *
+ * Uso: importa este archivo ademas de index.css
+ * CDN: https://cdn.jsdelivr.net/gh/morelosdesign/morelos-ds@main/tokens/css/typography-compound.css
+ * Ejemplo: <h1 class="type-display-l">Titulo principal</h1>
+ */
+
+/* ─────────────────────────────────────────────────────────────
+   FONT-WEIGHT NUMERICOS — manual hasta que Supernova los exporte
+   como numeros en lugar de strings ("Semibold", "Light", etc.)
+   Desktop y mobile difieren en Display y Title.
+───────────────────────────────────────────────────────────── */
+.theme-desktop {
+  --font-weight-semantic-display-l:  600; /* SemiBold */
+  --font-weight-semantic-display-m:  600;
+  --font-weight-semantic-display-s:  600;
+  --font-weight-semantic-heading-l:  400; /* Regular */
+  --font-weight-semantic-heading-m:  400;
+  --font-weight-semantic-heading-s:  400;
+  --font-weight-semantic-title-l:    300; /* Light */
+  --font-weight-semantic-title-m:    400; /* Regular */
+  --font-weight-semantic-title-s:    400;
+  --font-weight-semantic-body-l:     300; /* Light */
+  --font-weight-semantic-body-m:     300;
+  --font-weight-semantic-body-s:     300;
+  --font-weight-semantic-label-l:    300;
+  --font-weight-semantic-label-m:    300;
+  --font-weight-semantic-label-s:    300;
+}
+
+.theme-mobile {
+  --font-weight-semantic-display-l:  400; /* Regular — difiere de desktop */
+  --font-weight-semantic-display-m:  400;
+  --font-weight-semantic-display-s:  400;
+  --font-weight-semantic-heading-l:  400;
+  --font-weight-semantic-heading-m:  400;
+  --font-weight-semantic-heading-s:  400;
+  --font-weight-semantic-title-l:    400; /* Regular — difiere de desktop (Light) */
+  --font-weight-semantic-title-m:    400;
+  --font-weight-semantic-title-s:    400;
+  --font-weight-semantic-body-l:     300; /* Light */
+  --font-weight-semantic-body-m:     300;
+  --font-weight-semantic-body-s:     300;
+  --font-weight-semantic-label-l:    300;
+  --font-weight-semantic-label-m:    300;
+  --font-weight-semantic-label-s:    300;
+}
+
+/* ─────────────────────────────
+   Display — Karol Sans (Primary)
+───────────────────────────── */
+.type-display-l {
+  font-family: var(--font-family-core-font-family-primary);
+  font-size:   var(--font-size-semantic-display-l-font-size);
+  font-weight: var(--font-weight-semantic-display-l);
+  line-height: var(--line-height-semantic-display-l-line-height);
+}
+.type-display-m {
+  font-family: var(--font-family-core-font-family-primary);
+  font-size:   var(--font-size-semantic-display-m-font-size);
+  font-weight: var(--font-weight-semantic-display-m);
+  line-height: var(--line-height-semantic-display-m-line-height);
+}
+.type-display-s {
+  font-family: var(--font-family-core-font-family-primary);
+  font-size:   var(--font-size-semantic-display-s-font-size);
+  font-weight: var(--font-weight-semantic-display-s);
+  line-height: var(--line-height-semantic-display-s-line-height);
+}
+
+/* ─────────────────────────────
+   Heading — Twogether Sans (Secondary)
+───────────────────────────── */
+.type-heading-l {
+  font-family: var(--font-family-semantic-heading-l-font-family);
+  font-size:   var(--font-size-semantic-heading-l-font-size);
+  font-weight: var(--font-weight-semantic-heading-l);
+  line-height: var(--line-height-semantic-heading-l-line-height);
+}
+.type-heading-m {
+  font-family: var(--font-family-semantic-heading-m-font-family);
+  font-size:   var(--font-size-semantic-heading-m-font-size);
+  font-weight: var(--font-weight-semantic-heading-m);
+  line-height: var(--line-height-semantic-heading-m-line-height);
+}
+.type-heading-s {
+  font-family: var(--font-family-semantic-heading-s-font-family);
+  font-size:   var(--font-size-semantic-heading-s-font-size);
+  font-weight: var(--font-weight-semantic-heading-s);
+  line-height: var(--line-height-semantic-heading-s-line-height);
+}
+
+/* ─────────────────────────────
+   Title — Twogether Sans (Secondary)
+───────────────────────────── */
+.type-title-l {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-title-l-font-size);
+  font-weight: var(--font-weight-semantic-title-l);
+  line-height: var(--line-height-semantic-title-l-line-height);
+}
+.type-title-m {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-title-m-font-size);
+  font-weight: var(--font-weight-semantic-title-m);
+  line-height: var(--line-height-semantic-title-m-line-height);
+}
+.type-title-s {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-title-s-font-size);
+  font-weight: var(--font-weight-semantic-title-s);
+  line-height: var(--line-height-semantic-title-s-line-height);
+}
+
+/* ─────────────────────────────
+   Body — Twogether Sans (Secondary)
+───────────────────────────── */
+.type-body-l {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-body-l-font-size);
+  font-weight: var(--font-weight-semantic-body-l);
+  line-height: var(--line-height-semantic-body-l-line-height);
+}
+.type-body-m {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-body-m-font-size);
+  font-weight: var(--font-weight-semantic-body-m);
+  line-height: var(--line-height-semantic-body-m-line-height);
+}
+.type-body-s {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-body-s-font-size);
+  font-weight: var(--font-weight-semantic-body-s);
+  line-height: var(--line-height-semantic-body-s-line-height);
+}
+
+/* ─────────────────────────────
+   Label — Twogether Sans (Secondary)
+───────────────────────────── */
+.type-label-l {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-label-l-font-size);
+  font-weight: var(--font-weight-semantic-label-l);
+  line-height: var(--line-height-semantic-label-l-line-height);
+}
+.type-label-m {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-label-m-font-size);
+  font-weight: var(--font-weight-semantic-label-m);
+  line-height: var(--line-height-semantic-label-m-line-height);
+}
+.type-label-s {
+  font-family: var(--font-family-core-font-family-secondary);
+  font-size:   var(--font-size-semantic-label-s-font-size);
+  font-weight: var(--font-weight-semantic-label-s);
+  line-height: var(--line-height-semantic-label-s-line-height);
+}
