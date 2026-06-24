@@ -87,56 +87,56 @@
   --text-core-175: 14px;
   --text-core-450: 36px;
   --text-core-font-size-325: 34px;
-  --text-semantic-display-l-font-size: var(--text-core-font-size-500);
-  --text-semantic-display-m-font-size: var(--text-core-font-size-425);
-  --text-semantic-display-s-font-size: var(--text-core-font-size-400);
-  --text-semantic-heading-l-font-size: var(--text-core-font-size-325);
-  --text-semantic-heading-m-font-size: var(--text-core-font-size-300);
-  --text-semantic-heading-s-font-size: var(--text-core-font-size-250);
-  --text-semantic-title-l-font-size: var(--text-core-font-size-175);
-  --text-semantic-title-m-font-size: var(--text-core-font-size-150);
-  --text-semantic-title-s-font-size: var(--text-core-font-size-125);
-  --text-semantic-body-l-font-size: var(--text-core-font-size-125);
-  --text-semantic-body-m-font-size: var(--text-core-font-size-100);
-  --text-semantic-body-s-font-size: var(--text-core-font-size-75);
-  --text-semantic-body-xs-font-size: var(--text-core-font-size-50);
-  --text-semantic-label-l-font-size: var(--text-core-font-size-100);
-  --text-semantic-label-m-font-size: var(--text-core-font-size-75);
-  --text-semantic-label-s-font-size: var(--text-core-font-size-50);
+  --text-sem-display-l-font-size: var(--text-core-font-size-500);
+  --text-sem-display-m-font-size: var(--text-core-font-size-425);
+  --text-sem-display-s-font-size: var(--text-core-font-size-400);
+  --text-sem-heading-l-font-size: var(--text-core-font-size-325);
+  --text-sem-heading-m-font-size: var(--text-core-font-size-300);
+  --text-sem-heading-s-font-size: var(--text-core-font-size-250);
+  --text-sem-title-l-font-size: var(--text-core-font-size-175);
+  --text-sem-title-m-font-size: var(--text-core-font-size-150);
+  --text-sem-title-s-font-size: var(--text-core-font-size-125);
+  --text-sem-body-l-font-size: var(--text-core-font-size-125);
+  --text-sem-body-m-font-size: var(--text-core-font-size-100);
+  --text-sem-body-s-font-size: var(--text-core-font-size-75);
+  --text-sem-body-xs-font-size: var(--text-core-font-size-50);
+  --text-sem-label-l-font-size: var(--text-core-font-size-100);
+  --text-sem-label-m-font-size: var(--text-core-font-size-75);
+  --text-sem-label-s-font-size: var(--text-core-font-size-50);
   --text-semantic-label-xs-font-size: var(--spacing-core-font-size-25);
 
   /* BorderRadius */
-  --radius-semantic-border-radius-round: 999px;
-  --radius-semantic-border-radius-xs: var(--spacing-core-050);
-  --radius-semantic-border-radius-sm: var(--spacing-core-100);
-  --radius-semantic-border-radius-md: var(--spacing-core-200);
-  --radius-semantic-border-radius-lg: var(--spacing-core-300);
-  --radius-semantic-border-radius-xl: var(--text-core-450);
-  --radius-semantic-border-radius-focus: var(--spacing-core-050);
+  --radius-sem-border-radius-round: 999px;
+  --radius-sem-border-radius-xs: var(--spacing-core-050);
+  --radius-sem-border-radius-sm: var(--spacing-core-100);
+  --radius-sem-border-radius-md: var(--spacing-core-200);
+  --radius-sem-border-radius-lg: var(--spacing-core-300);
+  --radius-sem-border-radius-xl: var(--text-core-450);
+  --radius-sem-border-radius-focus: var(--spacing-core-050);
 
   /* Size */
-  --spacing-semantic-width-md: var(--spacing-core-4200);
+  --spacing-sem-width-md: var(--spacing-core-4200);
   --spacing-semantic-max-w-sm: var(--spacing-core-2375);
   --spacing-semantic-max-w-md: var(--spacing-core-2375);
   --spacing-semantic-max-w-lg: var(--spacing-core-2375);
   --spacing-semantic-max-w-xl: var(--spacing-core-2375);
   --spacing-semantic-max-w-2xl: var(--spacing-core-2375);
   --spacing-semantic-max-w-3xl: var(--spacing-core-2375);
-  --spacing-semantic-width-2xs: var(--spacing-core-1500);
-  --spacing-semantic-width-xs: var(--spacing-core-3100);
-  --spacing-semantic-width-sm: var(--spacing-core-4200);
-  --spacing-semantic-width-lg: var(--spacing-core-18000);
-  --spacing-semantic-width-main: var(--spacing-core-18000);
+  --spacing-sem-width-2xs: var(--spacing-core-1500);
+  --spacing-sem-width-xs: var(--spacing-core-3100);
+  --spacing-sem-width-sm: var(--spacing-core-4200);
+  --spacing-sem-width-lg: var(--spacing-core-18000);
+  --spacing-sem-width-main: var(--spacing-core-18000);
 
   /* Space */
-  --spacing-semantic-gap-2xs: var(--spacing-core-050);
-  --spacing-semantic-gap-xs: var(--spacing-core-100);
-  --spacing-semantic-gap-sm: var(--spacing-core-150);
-  --spacing-semantic-gap-md: var(--spacing-core-200);
-  --spacing-semantic-gap-lg: var(--spacing-core-300);
-  --spacing-semantic-gap-xl: var(--spacing-core-300);
+  --spacing-sem-gap-2xs: var(--spacing-core-050);
+  --spacing-sem-gap-xs: var(--spacing-core-100);
+  --spacing-sem-gap-sm: var(--spacing-core-150);
+  --spacing-sem-gap-md: var(--spacing-core-200);
+  --spacing-sem-gap-lg: var(--spacing-core-300);
+  --spacing-sem-gap-xl: var(--spacing-core-300);
   /* Espaciado por defecto entre secciones */
-  --spacing-semantic-gap-section-gap: var(--spacing-core-600);
+  --spacing-sem-gap-section-gap: var(--spacing-core-600);
 
   /* LineHeight */
   --leading-semantic-display-l-line-height: var(--spacing-core-line-height-600);
