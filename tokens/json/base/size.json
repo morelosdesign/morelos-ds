@@ -1,0 +1,31 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "sem": {
+    "width": {
+      "md": {
+        "value": "{core.6000}",
+        "type": "size"
+      },
+      "2xs": {
+        "value": "{core.1500}",
+        "type": "size"
+      },
+      "xs": {
+        "value": "{core.3100}",
+        "type": "size"
+      },
+      "sm": {
+        "value": "{core.4200}",
+        "type": "size"
+      },
+      "lg": {
+        "value": "{core.7500}",
+        "type": "size"
+      },
+      "main": {
+        "value": "{core.18000}",
+        "type": "size"
+      }
+    }
+  }
+}
