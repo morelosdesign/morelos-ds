@@ -20,7 +20,7 @@
       }
     }
   },
-  "semantic": {
+  "sem": {
     "display": {
       "l": {
         "font-weight": {
@@ -125,7 +125,11 @@
           "value": "{core.font-weight.light}",
           "type": "string"
         }
-      },
+      }
+    }
+  },
+  "semantic": {
+    "label": {
       "xs": {
         "font-weight": {
           "value": "{core.font-weight.light}",
