@@ -15,8 +15,6 @@
 @import "./desktop/font-family.css";
 @import "./desktop/string.css";
 @import "./desktop/font-size.css";
-@import "./desktop/line-height.css";
-@import "./desktop/letter-spacing.css";
 @import "./desktop/border-radius.css";
 @import "./desktop/size.css";
 @import "./desktop/space.css";
@@ -26,8 +24,6 @@
 @import "./mobile/font-family.css";
 @import "./mobile/string.css";
 @import "./mobile/font-size.css";
-@import "./mobile/line-height.css";
-@import "./mobile/letter-spacing.css";
 @import "./mobile/border-radius.css";
 @import "./mobile/size.css";
 @import "./mobile/space.css";
