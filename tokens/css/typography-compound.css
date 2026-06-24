@@ -15,39 +15,39 @@
    Desktop y mobile difieren en Display y Title.
 ───────────────────────────────────────────────────────────── */
 .theme-desktop {
-  --font-weight-semantic-display-l:  600; /* SemiBold */
-  --font-weight-semantic-display-m:  600;
-  --font-weight-semantic-display-s:  600;
-  --font-weight-semantic-heading-l:  400; /* Regular */
-  --font-weight-semantic-heading-m:  400;
-  --font-weight-semantic-heading-s:  400;
-  --font-weight-semantic-title-l:    300; /* Light */
-  --font-weight-semantic-title-m:    400; /* Regular */
-  --font-weight-semantic-title-s:    400;
-  --font-weight-semantic-body-l:     300; /* Light */
-  --font-weight-semantic-body-m:     300;
-  --font-weight-semantic-body-s:     300;
-  --font-weight-semantic-label-l:    300;
-  --font-weight-semantic-label-m:    300;
-  --font-weight-semantic-label-s:    300;
+  --font-weight-sem-display-l:  600; /* SemiBold */
+  --font-weight-sem-display-m:  600;
+  --font-weight-sem-display-s:  600;
+  --font-weight-sem-heading-l:  400; /* Regular */
+  --font-weight-sem-heading-m:  400;
+  --font-weight-sem-heading-s:  400;
+  --font-weight-sem-title-l:    300; /* Light */
+  --font-weight-sem-title-m:    400; /* Regular */
+  --font-weight-sem-title-s:    400;
+  --font-weight-sem-body-l:     300; /* Light */
+  --font-weight-sem-body-m:     300;
+  --font-weight-sem-body-s:     300;
+  --font-weight-sem-label-l:    300;
+  --font-weight-sem-label-m:    300;
+  --font-weight-sem-label-s:    300;
 }
 
 .theme-mobile {
-  --font-weight-semantic-display-l:  400; /* Regular — difiere de desktop */
-  --font-weight-semantic-display-m:  400;
-  --font-weight-semantic-display-s:  400;
-  --font-weight-semantic-heading-l:  400;
-  --font-weight-semantic-heading-m:  400;
-  --font-weight-semantic-heading-s:  400;
-  --font-weight-semantic-title-l:    400; /* Regular — difiere de desktop (Light) */
-  --font-weight-semantic-title-m:    400;
-  --font-weight-semantic-title-s:    400;
-  --font-weight-semantic-body-l:     300; /* Light */
-  --font-weight-semantic-body-m:     300;
-  --font-weight-semantic-body-s:     300;
-  --font-weight-semantic-label-l:    300;
-  --font-weight-semantic-label-m:    300;
-  --font-weight-semantic-label-s:    300;
+  --font-weight-sem-display-l:  400; /* Regular — difiere de desktop */
+  --font-weight-sem-display-m:  400;
+  --font-weight-sem-display-s:  400;
+  --font-weight-sem-heading-l:  400;
+  --font-weight-sem-heading-m:  400;
+  --font-weight-sem-heading-s:  400;
+  --font-weight-sem-title-l:    400; /* Regular — difiere de desktop (Light) */
+  --font-weight-sem-title-m:    400;
+  --font-weight-sem-title-s:    400;
+  --font-weight-sem-body-l:     300; /* Light */
+  --font-weight-sem-body-m:     300;
+  --font-weight-sem-body-s:     300;
+  --font-weight-sem-label-l:    300;
+  --font-weight-sem-label-m:    300;
+  --font-weight-sem-label-s:    300;
 }
 
 /* ─────────────────────────────
@@ -55,43 +55,43 @@
 ───────────────────────────── */
 .type-display-l {
   font-family: var(--font-family-core-font-family-primary);
-  font-size:   var(--font-size-semantic-display-l-font-size);
-  font-weight: var(--font-weight-semantic-display-l);
-  line-height: var(--line-height-semantic-display-l-line-height);
+  font-size:   var(--font-size-sem-display-l-font-size);
+  font-weight: var(--font-weight-sem-display-l);
+  line-height: var(--line-height-sem-display-l-line-height);
 }
 .type-display-m {
   font-family: var(--font-family-core-font-family-primary);
-  font-size:   var(--font-size-semantic-display-m-font-size);
-  font-weight: var(--font-weight-semantic-display-m);
-  line-height: var(--line-height-semantic-display-m-line-height);
+  font-size:   var(--font-size-sem-display-m-font-size);
+  font-weight: var(--font-weight-sem-display-m);
+  line-height: var(--line-height-sem-display-m-line-height);
 }
 .type-display-s {
   font-family: var(--font-family-core-font-family-primary);
-  font-size:   var(--font-size-semantic-display-s-font-size);
-  font-weight: var(--font-weight-semantic-display-s);
-  line-height: var(--line-height-semantic-display-s-line-height);
+  font-size:   var(--font-size-sem-display-s-font-size);
+  font-weight: var(--font-weight-sem-display-s);
+  line-height: var(--line-height-sem-display-s-line-height);
 }
 
 /* ─────────────────────────────
    Heading — Twogether Sans (Secondary)
 ───────────────────────────── */
 .type-heading-l {
-  font-family: var(--font-family-semantic-heading-l-font-family);
-  font-size:   var(--font-size-semantic-heading-l-font-size);
-  font-weight: var(--font-weight-semantic-heading-l);
-  line-height: var(--line-height-semantic-heading-l-line-height);
+  font-family: var(--font-family-sem-heading-l-font-family);
+  font-size:   var(--font-size-sem-heading-l-font-size);
+  font-weight: var(--font-weight-sem-heading-l);
+  line-height: var(--line-height-sem-heading-l-line-height);
 }
 .type-heading-m {
-  font-family: var(--font-family-semantic-heading-m-font-family);
-  font-size:   var(--font-size-semantic-heading-m-font-size);
-  font-weight: var(--font-weight-semantic-heading-m);
-  line-height: var(--line-height-semantic-heading-m-line-height);
+  font-family: var(--font-family-sem-heading-m-font-family);
+  font-size:   var(--font-size-sem-heading-m-font-size);
+  font-weight: var(--font-weight-sem-heading-m);
+  line-height: var(--line-height-sem-heading-m-line-height);
 }
 .type-heading-s {
-  font-family: var(--font-family-semantic-heading-s-font-family);
-  font-size:   var(--font-size-semantic-heading-s-font-size);
-  font-weight: var(--font-weight-semantic-heading-s);
-  line-height: var(--line-height-semantic-heading-s-line-height);
+  font-family: var(--font-family-sem-heading-s-font-family);
+  font-size:   var(--font-size-sem-heading-s-font-size);
+  font-weight: var(--font-weight-sem-heading-s);
+  line-height: var(--line-height-sem-heading-s-line-height);
 }
 
 /* ─────────────────────────────
@@ -99,21 +99,21 @@
 ───────────────────────────── */
 .type-title-l {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-title-l-font-size);
-  font-weight: var(--font-weight-semantic-title-l);
-  line-height: var(--line-height-semantic-title-l-line-height);
+  font-size:   var(--font-size-sem-title-l-font-size);
+  font-weight: var(--font-weight-sem-title-l);
+  line-height: var(--line-height-sem-title-l-line-height);
 }
 .type-title-m {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-title-m-font-size);
-  font-weight: var(--font-weight-semantic-title-m);
-  line-height: var(--line-height-semantic-title-m-line-height);
+  font-size:   var(--font-size-sem-title-m-font-size);
+  font-weight: var(--font-weight-sem-title-m);
+  line-height: var(--line-height-sem-title-m-line-height);
 }
 .type-title-s {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-title-s-font-size);
-  font-weight: var(--font-weight-semantic-title-s);
-  line-height: var(--line-height-semantic-title-s-line-height);
+  font-size:   var(--font-size-sem-title-s-font-size);
+  font-weight: var(--font-weight-sem-title-s);
+  line-height: var(--line-height-sem-title-s-line-height);
 }
 
 /* ─────────────────────────────
@@ -121,21 +121,21 @@
 ───────────────────────────── */
 .type-body-l {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-body-l-font-size);
-  font-weight: var(--font-weight-semantic-body-l);
-  line-height: var(--line-height-semantic-body-l-line-height);
+  font-size:   var(--font-size-sem-body-l-font-size);
+  font-weight: var(--font-weight-sem-body-l);
+  line-height: var(--line-height-sem-body-l-line-height);
 }
 .type-body-m {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-body-m-font-size);
-  font-weight: var(--font-weight-semantic-body-m);
-  line-height: var(--line-height-semantic-body-m-line-height);
+  font-size:   var(--font-size-sem-body-m-font-size);
+  font-weight: var(--font-weight-sem-body-m);
+  line-height: var(--line-height-sem-body-m-line-height);
 }
 .type-body-s {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-body-s-font-size);
-  font-weight: var(--font-weight-semantic-body-s);
-  line-height: var(--line-height-semantic-body-s-line-height);
+  font-size:   var(--font-size-sem-body-s-font-size);
+  font-weight: var(--font-weight-sem-body-s);
+  line-height: var(--line-height-sem-body-s-line-height);
 }
 
 /* ─────────────────────────────
@@ -143,19 +143,19 @@
 ───────────────────────────── */
 .type-label-l {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-label-l-font-size);
-  font-weight: var(--font-weight-semantic-label-l);
-  line-height: var(--line-height-semantic-label-l-line-height);
+  font-size:   var(--font-size-sem-label-l-font-size);
+  font-weight: var(--font-weight-sem-label-l);
+  line-height: var(--line-height-sem-label-l-line-height);
 }
 .type-label-m {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-label-m-font-size);
-  font-weight: var(--font-weight-semantic-label-m);
-  line-height: var(--line-height-semantic-label-m-line-height);
+  font-size:   var(--font-size-sem-label-m-font-size);
+  font-weight: var(--font-weight-sem-label-m);
+  line-height: var(--line-height-sem-label-m-line-height);
 }
 .type-label-s {
   font-family: var(--font-family-core-font-family-secondary);
-  font-size:   var(--font-size-semantic-label-s-font-size);
-  font-weight: var(--font-weight-semantic-label-s);
-  line-height: var(--line-height-semantic-label-s-line-height);
+  font-size:   var(--font-size-sem-label-s-font-size);
+  font-weight: var(--font-weight-sem-label-s);
+  line-height: var(--line-height-sem-label-s-line-height);
 }
