@@ -1,0 +1,8 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+:root {
+  --gradient-accent: radial-gradient(circle, #a54277 0%, #773357 100%);
+  --gradient-border-glass: linear-gradient(180deg, rgba(var(--color-sem-border-highest), 1) 0%, #ffffff00 100%);
+}

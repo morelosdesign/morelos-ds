@@ -1,0 +1,9 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+:root {
+  --shadow-elevation-lowest: 0px 2px 2px 0px #00000008;
+  --shadow-elevation-low: 0px 15px 30px -10px #0000001a;
+  --shadow-elevation-high: 0px 3px 7px 0px #535c261a, 0px 13px 13px 0px #535c2617, 0px 29px 17px 0px #535c260d, 0px 51px 21px 0px #535c2605, 0px 80px 23px 0px #535c2600;
+}
