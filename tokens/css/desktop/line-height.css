@@ -3,21 +3,21 @@
  */
 
 .theme-desktop {
-  --line-height-semantic-display-l-line-height: var(--dimension-core-line-height-950);
-  --line-height-semantic-display-m-line-height: var(--dimension-core-line-height-775);
-  --line-height-semantic-display-s-line-height: var(--dimension-core-line-height-600);
-  --line-height-semantic-heading-l-line-height: var(--dimension-core-line-height-600);
-  --line-height-semantic-heading-m-line-height: var(--dimension-core-line-height-525);
-  --line-height-semantic-heading-s-line-height: var(--dimension-core-line-height-400);
-  --line-height-semantic-title-l-line-height: var(--dimension-core-line-height-350);
-  --line-height-semantic-title-m-line-height: var(--dimension-core-line-height-275);
-  --line-height-semantic-title-s-line-height: var(--dimension-core-line-height-225);
-  --line-height-semantic-body-l-line-height: var(--dimension-core-line-height-250);
-  --line-height-semantic-body-m-line-height: var(--dimension-core-line-height-200);
-  --line-height-semantic-body-s-line-height: var(--dimension-core-line-height-175);
-  --line-height-semantic-body-xs-line-height: var(--dimension-core-line-height-150);
-  --line-height-semantic-label-l-line-height: var(--dimension-core-line-height-125);
-  --line-height-semantic-label-m-line-height: var(--dimension-core-line-height-100);
-  --line-height-semantic-label-s-line-height: var(--dimension-core-line-height-100);
-  --line-height-semantic-label-xs-line-height: var(--dimension-core-line-height-75);
+  --line-height-semantic-display-l-line-height: 86px;
+  --line-height-semantic-display-m-line-height: 72px;
+  --line-height-semantic-display-s-line-height: 56px;
+  --line-height-semantic-heading-l-line-height: 56px;
+  --line-height-semantic-heading-m-line-height: 50px;
+  --line-height-semantic-heading-s-line-height: 40px;
+  --line-height-semantic-title-l-line-height: 36px;
+  --line-height-semantic-title-m-line-height: 30px;
+  --line-height-semantic-title-s-line-height: 26px;
+  --line-height-semantic-body-l-line-height: 28px;
+  --line-height-semantic-body-m-line-height: 24px;
+  --line-height-semantic-body-s-line-height: 22px;
+  --line-height-semantic-body-xs-line-height: 20px;
+  --line-height-semantic-label-l-line-height: 18px;
+  --line-height-semantic-label-m-line-height: 16px;
+  --line-height-semantic-label-s-line-height: 16px;
+  --line-height-semantic-label-xs-line-height: 14px;
 }
