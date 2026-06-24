@@ -34,9 +34,7 @@
   --font-size-sem-body-l-font-size: var(--font-size-core-font-size-125);
   --font-size-sem-body-m-font-size: var(--font-size-core-font-size-100);
   --font-size-sem-body-s-font-size: var(--font-size-core-font-size-75);
-  --font-size-sem-body-xs-font-size: var(--font-size-core-font-size-50);
   --font-size-sem-label-l-font-size: var(--font-size-core-font-size-100);
   --font-size-sem-label-m-font-size: var(--font-size-core-font-size-75);
   --font-size-sem-label-s-font-size: var(--font-size-core-font-size-50);
-  --font-size-semantic-label-xs-font-size: var(--dimension-core-font-size-25);
 }

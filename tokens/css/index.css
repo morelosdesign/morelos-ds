@@ -18,8 +18,6 @@
 @import "./desktop/border-radius.css";
 @import "./desktop/size.css";
 @import "./desktop/space.css";
-@import "./desktop/line-height.css";
-@import "./desktop/letter-spacing.css";
 
 /* Theme: Mobile */
 @import "./mobile/dimension.css";
@@ -29,5 +27,3 @@
 @import "./mobile/border-radius.css";
 @import "./mobile/size.css";
 @import "./mobile/space.css";
-@import "./mobile/line-height.css";
-@import "./mobile/letter-spacing.css";
