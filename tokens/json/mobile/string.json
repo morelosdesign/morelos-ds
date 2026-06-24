@@ -99,12 +99,6 @@
           "value": "{core.font-weight.light}",
           "type": "string"
         }
-      },
-      "xs": {
-        "font-weight": {
-          "value": "{core.font-weight.light}",
-          "type": "string"
-        }
       }
     },
     "label": {

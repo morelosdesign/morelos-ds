@@ -159,12 +159,6 @@
           "value": "{core.font-size.75}",
           "type": "fontSize"
         }
-      },
-      "xs": {
-        "font-size": {
-          "value": "{core.font-size.50}",
-          "type": "fontSize"
-        }
       }
     },
     "label": {
