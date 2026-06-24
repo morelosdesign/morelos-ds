@@ -187,15 +187,5 @@
         }
       }
     }
-  },
-  "semantic": {
-    "label": {
-      "xs": {
-        "font-size": {
-          "value": "{core.font-size.25}",
-          "type": "fontSize"
-        }
-      }
-    }
   }
 }

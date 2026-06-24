@@ -27,33 +27,5 @@
         "type": "size"
       }
     }
-  },
-  "semantic": {
-    "max-w": {
-      "sm": {
-        "value": "{core.2375}",
-        "type": "size"
-      },
-      "md": {
-        "value": "{core.2375}",
-        "type": "size"
-      },
-      "lg": {
-        "value": "{core.2375}",
-        "type": "size"
-      },
-      "xl": {
-        "value": "{core.2375}",
-        "type": "size"
-      },
-      "2xl": {
-        "value": "{core.2375}",
-        "type": "size"
-      },
-      "3xl": {
-        "value": "{core.2375}",
-        "type": "size"
-      }
-    }
   }
 }
