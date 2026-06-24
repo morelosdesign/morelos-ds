@@ -80,7 +80,7 @@
       }
     }
   },
-  "semantic": {
+  "sem": {
     "display": {
       "l": {
         "font-size": {
@@ -185,7 +185,11 @@
           "value": "{core.font-size.50}",
           "type": "fontSize"
         }
-      },
+      }
+    }
+  },
+  "semantic": {
+    "label": {
       "xs": {
         "font-size": {
           "value": "{core.font-size.25}",
