@@ -3,16 +3,16 @@
  */
 
 .theme-mobile {
-  --size-semantic-width-md: var(--dimension-core-4200);
+  --size-sem-width-md: var(--dimension-core-4200);
   --size-semantic-max-w-sm: var(--dimension-core-2375);
   --size-semantic-max-w-md: var(--dimension-core-2375);
   --size-semantic-max-w-lg: var(--dimension-core-2375);
   --size-semantic-max-w-xl: var(--dimension-core-2375);
   --size-semantic-max-w-2xl: var(--dimension-core-2375);
   --size-semantic-max-w-3xl: var(--dimension-core-2375);
-  --size-semantic-width-2xs: var(--dimension-core-1500);
-  --size-semantic-width-xs: var(--dimension-core-3100);
-  --size-semantic-width-sm: var(--dimension-core-4200);
-  --size-semantic-width-lg: var(--dimension-core-18000);
-  --size-semantic-width-main: var(--dimension-core-18000);
+  --size-sem-width-2xs: var(--dimension-core-1500);
+  --size-sem-width-xs: var(--dimension-core-3100);
+  --size-sem-width-sm: var(--dimension-core-4200);
+  --size-sem-width-lg: var(--dimension-core-18000);
+  --size-sem-width-main: var(--dimension-core-18000);
 }
