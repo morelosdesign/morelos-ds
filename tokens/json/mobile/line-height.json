@@ -4,19 +4,19 @@
     "display": {
       "l": {
         "line-height": {
-          "value": "{core.line-height.600}",
+          "value": "56px",
           "type": "lineHeight"
         }
       },
       "m": {
         "line-height": {
-          "value": "{core.line-height.525}",
+          "value": "50px",
           "type": "lineHeight"
         }
       },
       "s": {
         "line-height": {
-          "value": "{core.line-height.500}",
+          "value": "48px",
           "type": "lineHeight"
         }
       }
@@ -24,19 +24,19 @@
     "heading": {
       "l": {
         "line-height": {
-          "value": "{core.line-height.450}",
+          "value": "44px",
           "type": "lineHeight"
         }
       },
       "m": {
         "line-height": {
-          "value": "{core.line-height.400}",
+          "value": "40px",
           "type": "lineHeight"
         }
       },
       "s": {
         "line-height": {
-          "value": "{core.line-height.300}",
+          "value": "32px",
           "type": "lineHeight"
         }
       }
@@ -44,19 +44,19 @@
     "title": {
       "l": {
         "line-height": {
-          "value": "{core.line-height.300}",
+          "value": "32px",
           "type": "lineHeight"
         }
       },
       "m": {
         "line-height": {
-          "value": "{core.line-height.250}",
+          "value": "28px",
           "type": "lineHeight"
         }
       },
       "s": {
         "line-height": {
-          "value": "{core.line-height.225}",
+          "value": "26px",
           "type": "lineHeight"
         }
       }
@@ -64,25 +64,25 @@
     "body": {
       "l": {
         "line-height": {
-          "value": "{core.line-height.225}",
+          "value": "26px",
           "type": "lineHeight"
         }
       },
       "m": {
         "line-height": {
-          "value": "{core.line-height.200}",
+          "value": "24px",
           "type": "lineHeight"
         }
       },
       "s": {
         "line-height": {
-          "value": "{core.line-height.175}",
+          "value": "22px",
           "type": "lineHeight"
         }
       },
       "xs": {
         "line-height": {
-          "value": "{core.line-height.150}",
+          "value": "20px",
           "type": "lineHeight"
         }
       }
@@ -90,25 +90,25 @@
     "label": {
       "l": {
         "line-height": {
-          "value": "{core.line-height.125}",
+          "value": "18px",
           "type": "lineHeight"
         }
       },
       "m": {
         "line-height": {
-          "value": "{core.line-height.100}",
+          "value": "16px",
           "type": "lineHeight"
         }
       },
       "s": {
         "line-height": {
-          "value": "{core.line-height.100}",
+          "value": "16px",
           "type": "lineHeight"
         }
       },
       "xs": {
         "line-height": {
-          "value": "{core.line-height.75}",
+          "value": "14px",
           "type": "lineHeight"
         }
       }
