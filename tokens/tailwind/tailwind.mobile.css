@@ -30,9 +30,6 @@
   --font-core-font-family-primary: "Karol Sans";
   --font-core-font-family-secondary: "Twogether Sans";
   --font-core-font-family-tertiary: "Quetzalli Sans";
-  --font-semantic-heading-l-font-family: var(--font-core-font-family-secondary);
-  --font-semantic-heading-m-font-family: var(--font-core-font-family-secondary);
-  --font-semantic-heading-s-font-family: var(--font-core-font-family-secondary);
 
   /* FontSize */
   --text-core-font-size-50: 12px;
@@ -69,44 +66,6 @@
   --text-sem-label-l-font-size: var(--text-core-font-size-100);
   --text-sem-label-m-font-size: var(--text-core-font-size-75);
   --text-sem-label-s-font-size: var(--text-core-font-size-50);
-
-  /* LineHeight */
-  --leading-semantic-display-l-line-height: 56px;
-  --leading-semantic-display-m-line-height: 50px;
-  --leading-semantic-display-s-line-height: 48px;
-  --leading-semantic-heading-l-line-height: 44px;
-  --leading-semantic-heading-m-line-height: 40px;
-  --leading-semantic-heading-s-line-height: 32px;
-  --leading-semantic-title-l-line-height: 32px;
-  --leading-semantic-title-m-line-height: 28px;
-  --leading-semantic-title-s-line-height: 26px;
-  --leading-semantic-body-l-line-height: 26px;
-  --leading-semantic-body-m-line-height: 24px;
-  --leading-semantic-body-s-line-height: 22px;
-  --leading-semantic-body-xs-line-height: 20px;
-  --leading-semantic-label-l-line-height: 18px;
-  --leading-semantic-label-m-line-height: 16px;
-  --leading-semantic-label-s-line-height: 16px;
-  --leading-semantic-label-xs-line-height: 14px;
-
-  /* LetterSpacing */
-  --tracking-semantic-display-l-letter-spacing: 0px;
-  --tracking-semantic-display-m-letter-spacing: 0px;
-  --tracking-semantic-display-s-letter-spacing: 0px;
-  --tracking-semantic-heading-l-letter-spacing: 0px;
-  --tracking-semantic-heading-m-letter-spacing: 0px;
-  --tracking-semantic-heading-s-letter-spacing: 0px;
-  --tracking-semantic-title-l-letter-spacing: 0px;
-  --tracking-semantic-title-m-letter-spacing: 0px;
-  --tracking-semantic-title-s-letter-spacing: 0px;
-  --tracking-semantic-body-l-letter-spacing: 0px;
-  --tracking-semantic-body-m-letter-spacing: 0px;
-  --tracking-semantic-body-s-letter-spacing: 0px;
-  --tracking-semantic-body-xs-letter-spacing: 0px;
-  --tracking-semantic-label-l-letter-spacing: 0px;
-  --tracking-semantic-label-m-letter-spacing: 0px;
-  --tracking-semantic-label-s-letter-spacing: 0px;
-  --tracking-semantic-label-xs-letter-spacing: 0px;
 
   /* BorderRadius */
   --radius-sem-border-radius-round: 999px;
