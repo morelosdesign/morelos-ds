@@ -15,27 +15,5 @@
         "type": "fontFamily"
       }
     }
-  },
-  "semantic": {
-    "heading": {
-      "l": {
-        "font-family": {
-          "value": "{core.font-family.secondary}",
-          "type": "fontFamily"
-        }
-      },
-      "m": {
-        "font-family": {
-          "value": "{core.font-family.secondary}",
-          "type": "fontFamily"
-        }
-      },
-      "s": {
-        "font-family": {
-          "value": "{core.font-family.secondary}",
-          "type": "fontFamily"
-        }
-      }
-    }
   }
 }
