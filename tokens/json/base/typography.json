@@ -1,0 +1,77 @@
+{
+  "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
+  "display": {
+    "large": {
+      "value": "{sem.display.l.font-weight} {sem.display.l.font-size}/120% {core.font-family.primary}",
+      "type": "typography"
+    },
+    "medium": {
+      "value": "{sem.display.l.font-weight} {sem.display.m.font-size}/120% {core.font-family.primary}",
+      "type": "typography",
+      "description": "Hero title"
+    },
+    "small": {
+      "value": "{sem.display.s.font-weight} {sem.display.s.font-size}/120% {core.font-family.primary}",
+      "type": "typography"
+    }
+  },
+  "heading": {
+    "large": {
+      "value": "{sem.heading.l.font-weight} {sem.heading.l.font-size}/120% Twogether Sans",
+      "type": "typography"
+    },
+    "medium": {
+      "value": "{sem.heading.m.font-weight} {sem.heading.m.font-size}/120% Twogether Sans",
+      "type": "typography"
+    },
+    "small": {
+      "value": "{sem.heading.s.font-weight} {sem.heading.s.font-size}/120% Twogether Sans",
+      "type": "typography"
+    }
+  },
+  "title": {
+    "large": {
+      "value": "{sem.title.l.font-weight} {sem.title.l.font-size}/120% Twogether Sans",
+      "type": "typography",
+      "description": "Headings within components"
+    },
+    "medium": {
+      "value": "{sem.title.m.font-weight} {sem.title.m.font-size}/120% Twogether Sans",
+      "type": "typography",
+      "description": "Headings within components"
+    },
+    "small": {
+      "value": "{sem.title.s.font-weight} 18px/120% Twogether Sans",
+      "type": "typography"
+    }
+  },
+  "body": {
+    "large": {
+      "value": "{sem.body.l.font-weight} {sem.body.l.font-size}/140% Twogether Sans",
+      "type": "typography"
+    },
+    "medium": {
+      "value": "{sem.body.m.font-weight} {sem.body.m.font-size}/140% Twogether Sans",
+      "type": "typography",
+      "description": "Buttons, Links"
+    },
+    "small": {
+      "value": "{sem.body.s.font-weight} {sem.body.s.font-size}/140% Twogether Sans",
+      "type": "typography"
+    }
+  },
+  "label": {
+    "large": {
+      "value": "{sem.label.l.font-weight} {sem.label.l.font-size}/120% Twogether Sans",
+      "type": "typography"
+    },
+    "medium": {
+      "value": "{sem.label.m.font-weight} {sem.label.m.font-size}/120% Twogether Sans",
+      "type": "typography"
+    },
+    "small": {
+      "value": "{sem.label.s.font-weight} {sem.label.s.font-size}/120% Twogether Sans",
+      "type": "typography"
+    }
+  }
+}
