@@ -25,6 +25,25 @@
   --spacing-core-6000: 480px;
   --spacing-core-9600: 768px;
   --spacing-core-12800: 1024px;
+  --spacing-core-font-weight-light: 300px;
+  --spacing-core-font-weight-regular: 400px;
+  --spacing-core-font-weight-medium: 500px;
+  --spacing-core-font-weight-semibold: 600px;
+  --spacing-sem-label-l-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-label-m-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-label-s-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-body-s-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-body-m-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-body-l-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-title-l-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-title-m-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-title-s-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-heading-s-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-heading-m-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-heading-l-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-display-l-font-weight: var(--spacing-core-font-weight-semibold);
+  --spacing-sem-display-m-font-weight: var(--spacing-core-font-weight-semibold);
+  --spacing-sem-display-s-font-weight: var(--spacing-core-font-weight-semibold);
 
   /* FontFamily */
   --font-core-font-family-primary: "Karol Sans";
