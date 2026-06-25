@@ -27,7 +27,6 @@
 /* Theme: Desktop */
 @import "./desktop/dimension.css";
 @import "./desktop/font-family.css";
-@import "./desktop/string.css";
 @import "./desktop/font-size.css";
 @import "./desktop/border-radius.css";
 @import "./desktop/size.css";
@@ -36,7 +35,6 @@
 /* Theme: Mobile */
 @import "./mobile/dimension.css";
 @import "./mobile/font-family.css";
-@import "./mobile/string.css";
 @import "./mobile/font-size.css";
 @import "./mobile/border-radius.css";
 @import "./mobile/size.css";

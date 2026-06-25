@@ -19,4 +19,23 @@
   --dimension-core-6000: 480px;
   --dimension-core-9600: 768px;
   --dimension-core-12800: 1024px;
+  --dimension-core-font-weight-light: 300px;
+  --dimension-core-font-weight-regular: 400px;
+  --dimension-core-font-weight-medium: 500px;
+  --dimension-core-font-weight-semibold: 600px;
+  --dimension-sem-label-l-font-weight: var(--dimension-core-font-weight-light);
+  --dimension-sem-label-m-font-weight: var(--dimension-core-font-weight-light);
+  --dimension-sem-label-s-font-weight: var(--dimension-core-font-weight-light);
+  --dimension-sem-body-s-font-weight: var(--dimension-core-font-weight-light);
+  --dimension-sem-body-m-font-weight: var(--dimension-core-font-weight-light);
+  --dimension-sem-body-l-font-weight: var(--dimension-core-font-weight-light);
+  --dimension-sem-title-l-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-title-m-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-title-s-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-heading-s-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-heading-m-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-heading-l-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-display-l-font-weight: var(--dimension-core-font-weight-semibold);
+  --dimension-sem-display-m-font-weight: var(--dimension-core-font-weight-semibold);
+  --dimension-sem-display-s-font-weight: var(--dimension-core-font-weight-semibold);
 }
