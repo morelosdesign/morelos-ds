@@ -64,6 +64,126 @@
     "050": {
       "value": "4px",
       "type": "dimension"
+    },
+    "font-weight": {
+      "light": {
+        "value": "300px",
+        "type": "dimension"
+      },
+      "regular": {
+        "value": "400px",
+        "type": "dimension"
+      },
+      "medium": {
+        "value": "500px",
+        "type": "dimension"
+      },
+      "semibold": {
+        "value": "600px",
+        "type": "dimension"
+      }
+    }
+  },
+  "sem": {
+    "label": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      }
+    },
+    "body": {
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      },
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      }
+    },
+    "title": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "dimension"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "dimension"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "dimension"
+        }
+      }
+    },
+    "heading": {
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "dimension"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "dimension"
+        }
+      },
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "dimension"
+        }
+      }
+    },
+    "display": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.semibold}",
+          "type": "dimension"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.semibold}",
+          "type": "dimension"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.semibold}",
+          "type": "dimension"
+        }
+      }
     }
   }
 }
