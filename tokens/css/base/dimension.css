@@ -2,14 +2,14 @@
  * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
  */
 
-.theme-mobile {
-  --dimension-core-025: 4px;
+:root {
+  --dimension-core-025: 2px;
   --dimension-core-200: 16px;
   --dimension-core-300: 24px;
   --dimension-core-600: 48px;
   --dimension-core-1500: 120px;
   --dimension-core-3100: 248px;
-  --dimension-core-7500: 1040px;
+  --dimension-core-7500: 600px;
   --dimension-core-18000: 1440px;
   --dimension-core-050: 4px;
   --dimension-core-100: 8px;
@@ -29,7 +29,7 @@
   --dimension-sem-body-s-font-weight: var(--dimension-core-font-weight-light);
   --dimension-sem-body-m-font-weight: var(--dimension-core-font-weight-light);
   --dimension-sem-body-l-font-weight: var(--dimension-core-font-weight-light);
-  --dimension-sem-title-l-font-weight: var(--dimension-core-font-weight-regular);
+  --dimension-sem-title-l-font-weight: var(--dimension-core-font-weight-light);
   --dimension-sem-title-m-font-weight: var(--dimension-core-font-weight-regular);
   --dimension-sem-title-s-font-weight: var(--dimension-core-font-weight-regular);
   --dimension-sem-heading-s-font-weight: var(--dimension-core-font-weight-regular);

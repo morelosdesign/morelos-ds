@@ -1,0 +1,14 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+:root {
+  --space-sem-gap-2xs: var(--dimension-core-050);
+  --space-sem-gap-xs: var(--dimension-core-100);
+  --space-sem-gap-sm: var(--dimension-core-150);
+  --space-sem-gap-md: var(--dimension-core-200);
+  --space-sem-gap-lg: var(--dimension-core-300);
+  --space-sem-gap-xl: var(--dimension-core-600);
+  /* Espaciado por defecto entre secciones */
+  --space-sem-gap-section-gap: var(--dimension-core-1500);
+}

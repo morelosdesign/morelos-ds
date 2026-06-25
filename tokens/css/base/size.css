@@ -1,0 +1,12 @@
+/**
+ * Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com). 
+ */
+
+:root {
+  --size-sem-width-md: var(--dimension-core-6000);
+  --size-sem-width-2xs: var(--dimension-core-1500);
+  --size-sem-width-xs: var(--dimension-core-3100);
+  --size-sem-width-sm: var(--dimension-core-4200);
+  --size-sem-width-lg: var(--dimension-core-7500);
+  --size-sem-width-main: var(--dimension-core-18000);
+}

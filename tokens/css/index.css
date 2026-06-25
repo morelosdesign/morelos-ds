@@ -1,3 +1,17 @@
+/* Base tokens */
+@import "./base/dimension.css";
+@import "./base/font-family.css";
+@import "./base/string.css";
+@import "./base/font-size.css";
+@import "./base/border-radius.css";
+@import "./base/size.css";
+@import "./base/space.css";
+@import "./base/color.css";
+@import "./base/shadow.css";
+@import "./base/blur.css";
+@import "./base/gradient.css";
+@import "./base/typography.css";
+
 /* Theme: Light */
 @import "./light/color.css";
 
@@ -13,7 +27,6 @@
 /* Theme: Desktop */
 @import "./desktop/dimension.css";
 @import "./desktop/font-family.css";
-@import "./desktop/string.css";
 @import "./desktop/font-size.css";
 @import "./desktop/border-radius.css";
 @import "./desktop/size.css";
@@ -22,7 +35,6 @@
 /* Theme: Mobile */
 @import "./mobile/dimension.css";
 @import "./mobile/font-family.css";
-@import "./mobile/string.css";
 @import "./mobile/font-size.css";
 @import "./mobile/border-radius.css";
 @import "./mobile/size.css";
