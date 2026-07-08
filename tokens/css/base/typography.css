@@ -3,23 +3,23 @@
  */
 
 :root {
-  --typography-display-large: var(--string-sem-display-l-font-weight) var(--font-size-sem-display-l-font-size)/120% var(--font-family-core-font-family-primary);
+  --typography-display-large: 600 var(--font-size-sem-display-l-font-size)/120% var(--font-family-core-font-family-primary);
   /* Hero title */
-  --typography-display-medium: var(--string-sem-display-l-font-weight) var(--font-size-sem-display-m-font-size)/120% var(--font-family-core-font-family-primary);
-  --typography-display-small: var(--string-sem-display-s-font-weight) var(--font-size-sem-display-s-font-size)/120% var(--font-family-core-font-family-primary);
-  --typography-heading-large: var(--string-sem-heading-l-font-weight) var(--font-size-sem-heading-l-font-size)/120% "Twogether Sans";
-  --typography-heading-medium: var(--string-sem-heading-m-font-weight) var(--font-size-sem-heading-m-font-size)/120% "Twogether Sans";
-  --typography-heading-small: var(--string-sem-heading-s-font-weight) var(--font-size-sem-heading-s-font-size)/120% "Twogether Sans";
+  --typography-display-medium: 600 var(--font-size-sem-display-m-font-size)/120% var(--font-family-core-font-family-primary);
+  --typography-display-small: 600 var(--font-size-sem-display-s-font-size)/120% var(--font-family-core-font-family-primary);
+  --typography-heading-large: 400 var(--font-size-sem-heading-l-font-size)/120% "Twogether Sans";
+  --typography-heading-medium: 400 var(--font-size-sem-heading-m-font-size)/120% "Twogether Sans";
+  --typography-heading-small: 400 var(--font-size-sem-heading-s-font-size)/120% "Twogether Sans";
   /* Headings within components */
-  --typography-title-large: var(--string-sem-title-l-font-weight) var(--font-size-sem-title-l-font-size)/120% "Twogether Sans";
+  --typography-title-large: 300 var(--font-size-sem-title-l-font-size)/120% "Twogether Sans";
   /* Headings within components */
-  --typography-title-medium: var(--string-sem-title-m-font-weight) var(--font-size-sem-title-m-font-size)/120% "Twogether Sans";
-  --typography-title-small: var(--string-sem-title-s-font-weight) 18px/120% "Twogether Sans";
-  --typography-body-large: var(--string-sem-body-l-font-weight) var(--font-size-sem-body-l-font-size)/140% "Twogether Sans";
+  --typography-title-medium: 400 var(--font-size-sem-title-m-font-size)/120% "Twogether Sans";
+  --typography-title-small: 400 18px/120% "Twogether Sans";
+  --typography-body-large: 300 var(--font-size-sem-body-l-font-size)/140% "Twogether Sans";
   /* Buttons, Links */
-  --typography-body-medium: var(--string-sem-body-m-font-weight) var(--font-size-sem-body-m-font-size)/140% "Twogether Sans";
-  --typography-body-small: var(--string-sem-body-s-font-weight) var(--font-size-sem-body-s-font-size)/140% "Twogether Sans";
-  --typography-label-large: var(--string-sem-label-l-font-weight) var(--font-size-sem-label-l-font-size)/120% "Twogether Sans";
-  --typography-label-medium: var(--string-sem-label-m-font-weight) var(--font-size-sem-label-m-font-size)/120% "Twogether Sans";
-  --typography-label-small: var(--string-sem-label-s-font-weight) var(--font-size-sem-label-s-font-size)/120% "Twogether Sans";
+  --typography-body-medium: 300 var(--font-size-sem-body-m-font-size)/140% "Twogether Sans";
+  --typography-body-small: 300 var(--font-size-sem-body-s-font-size)/140% "Twogether Sans";
+  --typography-label-large: 300 var(--font-size-sem-label-l-font-size)/120% "Twogether Sans";
+  --typography-label-medium: 300 var(--font-size-sem-label-m-font-size)/120% "Twogether Sans";
+  --typography-label-small: 300 var(--font-size-sem-label-s-font-size)/120% "Twogether Sans";
 }
