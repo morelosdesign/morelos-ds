@@ -247,6 +247,8 @@
   --color-core-azul-cielo-30: oklch(52.05% 0.026 196.47);
   --color-core-azul-cielo-10: oklch(34.92% 0.016 196.55);
   --color-core-opacity-mora60-180: oklch(66.98% 0.113 349.91 / 18%);
+  --color-core-azul-cielo-5: oklch(31.01% 0.016 196.44);
+  --color-core-azul-cielo-2: oklch(22.81% 0.017 196.09);
   --color-sem-accent-primary: var(--color-core-mora-30);
   --color-sem-accent-on-primary: var(--color-core-global-100);
   --color-sem-accent-primary-low: var(--color-core-mora-90);
@@ -331,81 +333,81 @@
   --text-display-large: var(--text-sem-display-l-font-size);
   --text-display-large--line-height: 120%;
   --text-display-large--letter-spacing: 0px;
-  --text-display-large--font-weight: var(--string-sem-display-l-font-weight);
+  --text-display-large--font-weight: 600;
 
   /* Hero title */
   --text-display-medium: var(--text-sem-display-m-font-size);
   --text-display-medium--line-height: 120%;
   --text-display-medium--letter-spacing: 0px;
-  --text-display-medium--font-weight: var(--string-sem-display-l-font-weight);
+  --text-display-medium--font-weight: 600;
 
   --text-display-small: var(--text-sem-display-s-font-size);
   --text-display-small--line-height: 120%;
   --text-display-small--letter-spacing: 0px;
-  --text-display-small--font-weight: var(--string-sem-display-s-font-weight);
+  --text-display-small--font-weight: 600;
 
   --text-heading-large: var(--text-sem-heading-l-font-size);
   --text-heading-large--line-height: 120%;
   --text-heading-large--letter-spacing: 0px;
-  --text-heading-large--font-weight: var(--string-sem-heading-l-font-weight);
+  --text-heading-large--font-weight: 400;
 
   --text-heading-medium: var(--text-sem-heading-m-font-size);
   --text-heading-medium--line-height: 120%;
   --text-heading-medium--letter-spacing: 0px;
-  --text-heading-medium--font-weight: var(--string-sem-heading-m-font-weight);
+  --text-heading-medium--font-weight: 400;
 
   --text-heading-small: var(--text-sem-heading-s-font-size);
   --text-heading-small--line-height: 120%;
   --text-heading-small--letter-spacing: 0px;
-  --text-heading-small--font-weight: var(--string-sem-heading-s-font-weight);
+  --text-heading-small--font-weight: 400;
 
   /* Headings within components */
   --text-title-large: var(--text-sem-title-l-font-size);
   --text-title-large--line-height: 120%;
   --text-title-large--letter-spacing: 0px;
-  --text-title-large--font-weight: var(--string-sem-title-l-font-weight);
+  --text-title-large--font-weight: 300;
 
   /* Headings within components */
   --text-title-medium: var(--text-sem-title-m-font-size);
   --text-title-medium--line-height: 120%;
   --text-title-medium--letter-spacing: 0px;
-  --text-title-medium--font-weight: var(--string-sem-title-m-font-weight);
+  --text-title-medium--font-weight: 400;
 
-  --text-title-small: 18px;
+  --text-title-small: var(--text-sem-title-s-font-size);
   --text-title-small--line-height: 120%;
   --text-title-small--letter-spacing: 0px;
-  --text-title-small--font-weight: var(--string-sem-title-s-font-weight);
+  --text-title-small--font-weight: 400;
 
   --text-body-large: var(--text-sem-body-l-font-size);
   --text-body-large--line-height: 140%;
   --text-body-large--letter-spacing: 0.2px;
-  --text-body-large--font-weight: var(--string-sem-body-l-font-weight);
+  --text-body-large--font-weight: 300;
 
   /* Buttons, Links */
   --text-body-medium: var(--text-sem-body-m-font-size);
   --text-body-medium--line-height: 140%;
   --text-body-medium--letter-spacing: 0.16px;
-  --text-body-medium--font-weight: var(--string-sem-body-m-font-weight);
+  --text-body-medium--font-weight: 300;
 
   --text-body-small: var(--text-sem-body-s-font-size);
   --text-body-small--line-height: 140%;
   --text-body-small--letter-spacing: 0.14px;
-  --text-body-small--font-weight: var(--string-sem-body-s-font-weight);
+  --text-body-small--font-weight: 300;
 
   --text-label-large: var(--text-sem-label-l-font-size);
   --text-label-large--line-height: 120%;
   --text-label-large--letter-spacing: 0.16px;
-  --text-label-large--font-weight: var(--string-sem-label-l-font-weight);
+  --text-label-large--font-weight: 300;
 
   --text-label-medium: var(--text-sem-label-m-font-size);
   --text-label-medium--line-height: 120%;
   --text-label-medium--letter-spacing: 0.14px;
-  --text-label-medium--font-weight: var(--string-sem-label-m-font-weight);
+  --text-label-medium--font-weight: 300;
 
   --text-label-small: var(--text-sem-label-s-font-size);
   --text-label-small--line-height: 120%;
   --text-label-small--letter-spacing: 0.12px;
-  --text-label-small--font-weight: var(--string-sem-label-s-font-weight);
+  --text-label-small--font-weight: 300;
 
 }
 

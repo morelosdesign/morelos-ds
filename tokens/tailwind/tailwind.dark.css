@@ -140,6 +140,8 @@
   --color-core-azul-cielo-30: oklch(52.05% 0.026 196.47);
   --color-core-azul-cielo-10: oklch(52.05% 0.026 196.47);
   --color-core-opacity-mora60-180: oklch(66.98% 0.113 349.91 / 18%);
+  --color-core-azul-cielo-5: oklch(31.01% 0.016 196.44);
+  --color-core-azul-cielo-2: oklch(22.81% 0.017 196.09);
   --color-sem-accent-primary: var(--color-core-mora-70);
   --color-sem-accent-on-primary: var(--color-core-mora-20);
   --color-sem-accent-primary-low: var(--color-core-mora-20);
@@ -199,16 +201,16 @@
   --color-sem-accent-on-neutral: var(--color-core-global-95);
   --color-sem-support-on-focus: var(--color-core-global-0);
   --color-sem-reactive-accent-active: var(--color-core-opacity-mora60-180);
-  --bg-color-comp-badge-cata-high: oklch(100% 0 263.28);
-  --bg-color-comp-badge-cata-on: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catb-high: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catb-on-high: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catc-high: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catc-on-high: oklch(100% 0 263.28);
-  --bg-color-comp-badge-cata-low: oklch(100% 0 263.28);
-  --bg-color-comp-badge-cata-on-low: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catb-low: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catb-on-low: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catc-low: oklch(100% 0 263.28);
-  --bg-color-comp-badge-catc-on-low: oklch(100% 0 263.28);
+  --bg-color-comp-badge-cata-high: var(--color-core-azul-cielo-70);
+  --bg-color-comp-badge-cata-on: var(--color-core-azul-cielo-2);
+  --bg-color-comp-badge-catb-high: var(--color-core-lila-80);
+  --bg-color-comp-badge-catb-on-high: var(--color-core-lila-10);
+  --bg-color-comp-badge-catc-high: var(--color-core-bosque-95);
+  --bg-color-comp-badge-catc-on-high: var(--color-core-bosque-10);
+  --bg-color-comp-badge-cata-low: var(--color-core-azul-cielo-10);
+  --bg-color-comp-badge-cata-on-low: var(--color-core-azul-cielo-80);
+  --bg-color-comp-badge-catb-low: var(--color-core-lila-30);
+  --bg-color-comp-badge-catb-on-low: var(--color-core-lila-80);
+  --bg-color-comp-badge-catc-low: var(--color-core-bosque-30);
+  --bg-color-comp-badge-catc-on-low: var(--color-core-bosque-90);
 }
