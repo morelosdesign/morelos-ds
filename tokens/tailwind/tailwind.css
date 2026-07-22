@@ -371,7 +371,7 @@
   --text-title-medium--letter-spacing: 0px;
   --text-title-medium--font-weight: 400;
 
-  --text-title-small: 18px;
+  --text-title-small: var(--text-sem-title-s-font-size);
   --text-title-small--line-height: 120%;
   --text-title-small--letter-spacing: 0px;
   --text-title-small--font-weight: 400;
