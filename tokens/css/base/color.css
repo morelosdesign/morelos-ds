@@ -134,6 +134,8 @@
   --color-core-azul-cielo-30: #586e6e;
   --color-core-azul-cielo-10: #313d3d;
   --color-core-opacity-mora60-180: #c9779f2e;
+  --color-core-azul-cielo-5: #273333;
+  --color-core-azul-cielo-2: #131f1f;
   --color-sem-accent-primary: var(--color-core-mora-30);
   --color-sem-accent-on-primary: var(--color-core-global-100);
   --color-sem-accent-primary-low: var(--color-core-mora-90);
