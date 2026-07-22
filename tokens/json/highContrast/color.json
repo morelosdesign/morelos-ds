@@ -494,6 +494,14 @@
       }
     },
     "azul-cielo": {
+      "2": {
+        "value": "#131f1f",
+        "type": "color"
+      },
+      "5": {
+        "value": "#273333",
+        "type": "color"
+      },
       "10": {
         "value": "#586e6e",
         "type": "color"
@@ -717,7 +725,7 @@
         "type": "color"
       },
       "on-warning": {
-        "value": "{core.global.0}",
+        "value": "{core.global.100}",
         "type": "color"
       },
       "warning-low": {
@@ -816,55 +824,55 @@
     "badge": {
       "cat-a": {
         "bg-high": {
-          "value": "#ffffff",
+          "value": "{core.azul-cielo.5}",
           "type": "color"
         },
         "on-bg": {
-          "value": "#ffffff",
+          "value": "{core.azul-cielo.90}",
           "type": "color"
         },
         "bg-low": {
-          "value": "#ffffff",
+          "value": "{core.azul-cielo.60}",
           "type": "color"
         },
         "on-bg-low": {
-          "value": "#ffffff",
+          "value": "{core.azul-cielo.5}",
           "type": "color"
         }
       },
       "cat-b": {
         "bg-high": {
-          "value": "#ffffff",
+          "value": "{core.lila.10}",
           "type": "color"
         },
         "on-bg-high": {
-          "value": "#ffffff",
+          "value": "{core.lila.90}",
           "type": "color"
         },
         "bg-low": {
-          "value": "#ffffff",
+          "value": "{core.lila.60}",
           "type": "color"
         },
         "on-bg-low": {
-          "value": "#ffffff",
+          "value": "{core.lila.10}",
           "type": "color"
         }
       },
       "cat-c": {
         "bg-high": {
-          "value": "#ffffff",
+          "value": "{core.bosque.10}",
           "type": "color"
         },
         "on-bg-high": {
-          "value": "#ffffff",
+          "value": "{core.bosque.95}",
           "type": "color"
         },
         "bg-low": {
-          "value": "#ffffff",
+          "value": "{core.bosque.80}",
           "type": "color"
         },
         "on-bg-low": {
-          "value": "#ffffff",
+          "value": "{core.bosque.10}",
           "type": "color"
         }
       }

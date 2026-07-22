@@ -494,6 +494,14 @@
       }
     },
     "azul-cielo": {
+      "2": {
+        "value": "#1d2929",
+        "type": "color"
+      },
+      "5": {
+        "value": "#313d3d",
+        "type": "color"
+      },
       "10": {
         "value": "#586e6e",
         "type": "color"
@@ -717,7 +725,7 @@
         "type": "color"
       },
       "on-warning": {
-        "value": "{core.global.0}",
+        "value": "{core.global.100}",
         "type": "color"
       },
       "warning-low": {
@@ -816,55 +824,55 @@
     "badge": {
       "cat-a": {
         "bg-high": {
-          "value": "#ffffff",
+          "value": "{core.global.20}",
           "type": "color"
         },
         "on-bg": {
-          "value": "#ffffff",
+          "value": "{core.global.100}",
           "type": "color"
         },
         "bg-low": {
-          "value": "#ffffff",
+          "value": "{core.global.95}",
           "type": "color"
         },
         "on-bg-low": {
-          "value": "#ffffff",
+          "value": "{core.global.0}",
           "type": "color"
         }
       },
       "cat-b": {
         "bg-high": {
-          "value": "#ffffff",
+          "value": "{core.global.30}",
           "type": "color"
         },
         "on-bg-high": {
-          "value": "#ffffff",
+          "value": "{core.global.100}",
           "type": "color"
         },
         "bg-low": {
-          "value": "#ffffff",
+          "value": "{core.global.80}",
           "type": "color"
         },
         "on-bg-low": {
-          "value": "#ffffff",
+          "value": "{core.global.0}",
           "type": "color"
         }
       },
       "cat-c": {
         "bg-high": {
-          "value": "#ffffff",
+          "value": "{core.global.40}",
           "type": "color"
         },
         "on-bg-high": {
-          "value": "#ffffff",
+          "value": "{core.global.100}",
           "type": "color"
         },
         "bg-low": {
-          "value": "#ffffff",
+          "value": "{core.global.75}",
           "type": "color"
         },
         "on-bg-low": {
-          "value": "#ffffff",
+          "value": "{core.global.0}",
           "type": "color"
         }
       }
