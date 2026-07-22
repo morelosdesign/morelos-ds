@@ -494,6 +494,14 @@
       }
     },
     "azul-cielo": {
+      "2": {
+        "value": "#131f1f",
+        "type": "color"
+      },
+      "5": {
+        "value": "#273333",
+        "type": "color"
+      },
       "10": {
         "value": "#313d3d",
         "type": "color"
