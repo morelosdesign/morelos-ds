@@ -41,7 +41,7 @@
       "description": "Headings within components"
     },
     "small": {
-      "value": "400 18px/120% Twogether Sans",
+      "value": "400 {sem.title.s.font-size}/120% Twogether Sans",
       "type": "typography"
     }
   },
