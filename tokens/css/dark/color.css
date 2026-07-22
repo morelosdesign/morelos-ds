@@ -134,6 +134,8 @@
   --color-core-azul-cielo-30: #586e6e;
   --color-core-azul-cielo-10: #586e6e;
   --color-core-opacity-mora60-180: #c9779f2e;
+  --color-core-azul-cielo-5: #273333;
+  --color-core-azul-cielo-2: #131f1f;
   --color-sem-accent-primary: var(--color-core-mora-70);
   --color-sem-accent-on-primary: var(--color-core-mora-20);
   --color-sem-accent-primary-low: var(--color-core-mora-20);
@@ -193,16 +195,16 @@
   --color-sem-accent-on-neutral: var(--color-core-global-95);
   --color-sem-support-on-focus: var(--color-core-global-0);
   --color-sem-reactive-accent-active: var(--color-core-opacity-mora60-180);
-  --color-comp-badge-cat-a-bg-high: #ffffff;
-  --color-comp-badge-cat-a-on-bg: #ffffff;
-  --color-comp-badge-cat-b-bg-high: #ffffff;
-  --color-comp-badge-cat-b-on-bg-high: #ffffff;
-  --color-comp-badge-cat-c-bg-high: #ffffff;
-  --color-comp-badge-cat-c-on-bg-high: #ffffff;
-  --color-comp-badge-cat-a-bg-low: #ffffff;
-  --color-comp-badge-cat-a-on-bg-low: #ffffff;
-  --color-comp-badge-cat-b-bg-low: #ffffff;
-  --color-comp-badge-cat-b-on-bg-low: #ffffff;
-  --color-comp-badge-cat-c-bg-low: #ffffff;
-  --color-comp-badge-cat-c-on-bg-low: #ffffff;
+  --color-comp-badge-cat-a-bg-high: var(--color-core-azul-cielo-70);
+  --color-comp-badge-cat-a-on-bg: var(--color-core-azul-cielo-2);
+  --color-comp-badge-cat-b-bg-high: var(--color-core-lila-80);
+  --color-comp-badge-cat-b-on-bg-high: var(--color-core-lila-10);
+  --color-comp-badge-cat-c-bg-high: var(--color-core-bosque-95);
+  --color-comp-badge-cat-c-on-bg-high: var(--color-core-bosque-10);
+  --color-comp-badge-cat-a-bg-low: var(--color-core-azul-cielo-10);
+  --color-comp-badge-cat-a-on-bg-low: var(--color-core-azul-cielo-80);
+  --color-comp-badge-cat-b-bg-low: var(--color-core-lila-30);
+  --color-comp-badge-cat-b-on-bg-low: var(--color-core-lila-80);
+  --color-comp-badge-cat-c-bg-low: var(--color-core-bosque-30);
+  --color-comp-badge-cat-c-on-bg-low: var(--color-core-bosque-90);
 }
