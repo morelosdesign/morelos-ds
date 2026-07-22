@@ -247,6 +247,8 @@
   --color-core-azul-cielo-30: oklch(52.05% 0.026 196.47);
   --color-core-azul-cielo-10: oklch(34.92% 0.016 196.55);
   --color-core-opacity-mora60-180: oklch(66.98% 0.113 349.91 / 18%);
+  --color-core-azul-cielo-5: oklch(31.01% 0.016 196.44);
+  --color-core-azul-cielo-2: oklch(22.81% 0.017 196.09);
   --color-sem-accent-primary: var(--color-core-mora-30);
   --color-sem-accent-on-primary: var(--color-core-global-100);
   --color-sem-accent-primary-low: var(--color-core-mora-90);
