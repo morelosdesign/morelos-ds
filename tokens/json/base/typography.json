@@ -17,60 +17,60 @@
   },
   "heading": {
     "large": {
-      "value": "400 {sem.heading.l.font-size}/120% Twogether Sans",
+      "value": "400 {sem.heading.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     },
     "medium": {
-      "value": "400 {sem.heading.m.font-size}/120% Twogether Sans",
+      "value": "400 {sem.heading.m.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     },
     "small": {
-      "value": "400 {sem.heading.s.font-size}/120% Twogether Sans",
+      "value": "400 {sem.heading.s.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "title": {
     "large": {
-      "value": "300 {sem.title.l.font-size}/120% Twogether Sans",
+      "value": "300 {sem.title.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography",
       "description": "Headings within components"
     },
     "medium": {
-      "value": "400 {sem.title.m.font-size}/120% Twogether Sans",
+      "value": "400 {sem.title.m.font-size}/120% {core.font-family.secondary}",
       "type": "typography",
       "description": "Headings within components"
     },
     "small": {
-      "value": "400 {sem.title.s.font-size}/120% Twogether Sans",
+      "value": "400 {sem.title.s.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "body": {
     "large": {
-      "value": "300 {sem.body.l.font-size}/140% Twogether Sans",
+      "value": "300 {sem.body.l.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
     "medium": {
-      "value": "300 {sem.body.m.font-size}/140% Twogether Sans",
+      "value": "300 {sem.body.m.font-size}/140% {core.font-family.secondary}",
       "type": "typography",
       "description": "Buttons, Links"
     },
     "small": {
-      "value": "300 {sem.body.s.font-size}/140% Twogether Sans",
+      "value": "300 {sem.body.s.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "label": {
     "large": {
-      "value": "300 {sem.label.l.font-size}/120% Twogether Sans",
+      "value": "300 {sem.label.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     },
     "medium": {
-      "value": "300 {sem.label.m.font-size}/120% Twogether Sans",
+      "value": "300 {sem.label.m.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     },
     "small": {
-      "value": "300 {sem.label.s.font-size}/120% Twogether Sans",
+      "value": "300 {sem.label.s.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     }
   }
