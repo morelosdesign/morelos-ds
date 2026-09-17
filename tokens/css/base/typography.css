@@ -19,7 +19,7 @@
   /* Buttons, Links */
   --typography-body-medium: 300 var(--font-size-sem-body-m-font-size)/140% var(--font-family-core-font-family-secondary);
   --typography-body-small: 300 var(--font-size-sem-body-s-font-size)/140% var(--font-family-core-font-family-secondary);
-  --typography-label-large: 300 var(--font-size-sem-label-l-font-size)/120% var(--font-family-core-font-family-secondary);
-  --typography-label-medium: 300 var(--font-size-sem-label-m-font-size)/120% var(--font-family-core-font-family-secondary);
-  --typography-label-small: 300 var(--font-size-sem-label-s-font-size)/120% var(--font-family-core-font-family-secondary);
+  --typography-label-large: 300 var(--font-size-sem-label-l-font-size)/140% var(--font-family-core-font-family-secondary);
+  --typography-label-medium: 300 var(--font-size-sem-label-m-font-size)/140% var(--font-family-core-font-family-secondary);
+  --typography-label-small: 300 var(--font-size-sem-label-s-font-size)/140% var(--font-family-core-font-family-secondary);
 }
