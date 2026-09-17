@@ -62,15 +62,15 @@
   },
   "label": {
     "large": {
-      "value": "300 {sem.label.l.font-size}/120% {core.font-family.secondary}",
+      "value": "300 {sem.label.l.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
     "medium": {
-      "value": "300 {sem.label.m.font-size}/120% {core.font-family.secondary}",
+      "value": "300 {sem.label.m.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
     "small": {
-      "value": "300 {sem.label.s.font-size}/120% {core.font-family.secondary}",
+      "value": "300 {sem.label.s.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     }
   }
