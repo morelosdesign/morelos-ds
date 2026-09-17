@@ -395,17 +395,17 @@
   --text-body-small--font-weight: 300;
 
   --text-label-large: var(--text-sem-label-l-font-size);
-  --text-label-large--line-height: 120%;
+  --text-label-large--line-height: 140%;
   --text-label-large--letter-spacing: 0.16px;
   --text-label-large--font-weight: 300;
 
   --text-label-medium: var(--text-sem-label-m-font-size);
-  --text-label-medium--line-height: 120%;
+  --text-label-medium--line-height: 140%;
   --text-label-medium--letter-spacing: 0.14px;
   --text-label-medium--font-weight: 300;
 
   --text-label-small: var(--text-sem-label-s-font-size);
-  --text-label-small--line-height: 120%;
+  --text-label-small--line-height: 140%;
   --text-label-small--letter-spacing: 0.12px;
   --text-label-small--font-weight: 300;
 
