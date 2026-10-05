@@ -330,252 +330,252 @@
   --blur-blur-high: 100px;
 
   /* Typography */
-  --text-display-large: var(--text-sem-display-l-font-size);
-  --text-display-large--line-height: 120%;
-  --text-display-large--letter-spacing: 0px;
-  --text-display-large--font-weight: 600;
+  --text-display-lg: var(--text-sem-display-l-font-size);
+  --text-display-lg--line-height: 120%;
+  --text-display-lg--letter-spacing: 0px;
+  --text-display-lg--font-weight: 600;
 
   /* Hero title */
-  --text-display-medium: var(--text-sem-display-m-font-size);
-  --text-display-medium--line-height: 120%;
-  --text-display-medium--letter-spacing: 0px;
-  --text-display-medium--font-weight: 600;
+  --text-display-md: var(--text-sem-display-m-font-size);
+  --text-display-md--line-height: 120%;
+  --text-display-md--letter-spacing: 0px;
+  --text-display-md--font-weight: 600;
 
-  --text-display-small: var(--text-sem-display-s-font-size);
-  --text-display-small--line-height: 120%;
-  --text-display-small--letter-spacing: 0px;
-  --text-display-small--font-weight: 600;
+  --text-display-sm: var(--text-sem-display-s-font-size);
+  --text-display-sm--line-height: 120%;
+  --text-display-sm--letter-spacing: 0px;
+  --text-display-sm--font-weight: 600;
 
-  --text-heading-large: var(--text-sem-heading-l-font-size);
-  --text-heading-large--line-height: 120%;
-  --text-heading-large--letter-spacing: 0px;
-  --text-heading-large--font-weight: 400;
+  --text-heading-lg: var(--text-sem-heading-l-font-size);
+  --text-heading-lg--line-height: 120%;
+  --text-heading-lg--letter-spacing: 0px;
+  --text-heading-lg--font-weight: 400;
 
-  --text-heading-medium: var(--text-sem-heading-m-font-size);
-  --text-heading-medium--line-height: 120%;
-  --text-heading-medium--letter-spacing: 0px;
-  --text-heading-medium--font-weight: 400;
+  --text-heading-md: var(--text-sem-heading-m-font-size);
+  --text-heading-md--line-height: 120%;
+  --text-heading-md--letter-spacing: 0px;
+  --text-heading-md--font-weight: 400;
 
-  --text-heading-small: var(--text-sem-heading-s-font-size);
-  --text-heading-small--line-height: 120%;
-  --text-heading-small--letter-spacing: 0px;
-  --text-heading-small--font-weight: 400;
-
-  /* Headings within components */
-  --text-title-large: var(--text-sem-title-l-font-size);
-  --text-title-large--line-height: 120%;
-  --text-title-large--letter-spacing: 0px;
-  --text-title-large--font-weight: 300;
+  --text-heading-sm: var(--text-sem-heading-s-font-size);
+  --text-heading-sm--line-height: 120%;
+  --text-heading-sm--letter-spacing: 0px;
+  --text-heading-sm--font-weight: 400;
 
   /* Headings within components */
-  --text-title-medium: var(--text-sem-title-m-font-size);
-  --text-title-medium--line-height: 120%;
-  --text-title-medium--letter-spacing: 0px;
-  --text-title-medium--font-weight: 400;
+  --text-title-lg: var(--text-sem-title-l-font-size);
+  --text-title-lg--line-height: 120%;
+  --text-title-lg--letter-spacing: 0px;
+  --text-title-lg--font-weight: 300;
 
-  --text-title-small: var(--text-sem-title-s-font-size);
-  --text-title-small--line-height: 120%;
-  --text-title-small--letter-spacing: 0px;
-  --text-title-small--font-weight: 400;
+  /* Headings within components */
+  --text-title-md: var(--text-sem-title-m-font-size);
+  --text-title-md--line-height: 120%;
+  --text-title-md--letter-spacing: 0px;
+  --text-title-md--font-weight: 400;
 
-  --text-body-large: var(--text-sem-body-l-font-size);
-  --text-body-large--line-height: 140%;
-  --text-body-large--letter-spacing: 0.2px;
-  --text-body-large--font-weight: 300;
+  --text-title-sm: var(--text-sem-title-s-font-size);
+  --text-title-sm--line-height: 120%;
+  --text-title-sm--letter-spacing: 0px;
+  --text-title-sm--font-weight: 400;
+
+  --text-body-lg: var(--text-sem-body-l-font-size);
+  --text-body-lg--line-height: 140%;
+  --text-body-lg--letter-spacing: 0.2px;
+  --text-body-lg--font-weight: 300;
 
   /* Buttons, Links */
-  --text-body-medium: var(--text-sem-body-m-font-size);
-  --text-body-medium--line-height: 140%;
-  --text-body-medium--letter-spacing: 0.16px;
-  --text-body-medium--font-weight: 300;
+  --text-body-md: var(--text-sem-body-m-font-size);
+  --text-body-md--line-height: 140%;
+  --text-body-md--letter-spacing: 0.16px;
+  --text-body-md--font-weight: 300;
 
-  --text-body-small: var(--text-sem-body-s-font-size);
-  --text-body-small--line-height: 140%;
-  --text-body-small--letter-spacing: 0.14px;
-  --text-body-small--font-weight: 300;
+  --text-body-sm: var(--text-sem-body-s-font-size);
+  --text-body-sm--line-height: 140%;
+  --text-body-sm--letter-spacing: 0.14px;
+  --text-body-sm--font-weight: 300;
 
-  --text-label-large: var(--text-sem-label-l-font-size);
-  --text-label-large--line-height: 140%;
-  --text-label-large--letter-spacing: 0.16px;
-  --text-label-large--font-weight: 300;
+  --text-label-lg: var(--text-sem-label-l-font-size);
+  --text-label-lg--line-height: 140%;
+  --text-label-lg--letter-spacing: 0.16px;
+  --text-label-lg--font-weight: 300;
 
-  --text-label-medium: var(--text-sem-label-m-font-size);
-  --text-label-medium--line-height: 140%;
-  --text-label-medium--letter-spacing: 0.14px;
-  --text-label-medium--font-weight: 300;
+  --text-label-md: var(--text-sem-label-m-font-size);
+  --text-label-md--line-height: 140%;
+  --text-label-md--letter-spacing: 0.14px;
+  --text-label-md--font-weight: 300;
 
-  --text-label-small: var(--text-sem-label-s-font-size);
-  --text-label-small--line-height: 140%;
-  --text-label-small--letter-spacing: 0.12px;
-  --text-label-small--font-weight: 300;
+  --text-label-sm: var(--text-sem-label-s-font-size);
+  --text-label-sm--line-height: 140%;
+  --text-label-sm--letter-spacing: 0.12px;
+  --text-label-sm--font-weight: 300;
 
 }
 
 @layer components {
-  .display-large {
+  .display-lg {
     font-family: "Karol Sans";
-    font-size: var(--text-display-large);
-    font-weight: var(--text-display-large--font-weight);
-    line-height: var(--text-display-large--line-height);
-    letter-spacing: var(--text-display-large--letter-spacing);
+    font-size: var(--text-display-lg);
+    font-weight: var(--text-display-lg--font-weight);
+    line-height: var(--text-display-lg--line-height);
+    letter-spacing: var(--text-display-lg--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 0px;
   }
   /* Hero title */
-  .display-medium {
+  .display-md {
     font-family: "Karol Sans";
-    font-size: var(--text-display-medium);
-    font-weight: var(--text-display-medium--font-weight);
-    line-height: var(--text-display-medium--line-height);
-    letter-spacing: var(--text-display-medium--letter-spacing);
+    font-size: var(--text-display-md);
+    font-weight: var(--text-display-md--font-weight);
+    line-height: var(--text-display-md--line-height);
+    letter-spacing: var(--text-display-md--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 48px;
   }
-  .display-small {
+  .display-sm {
     font-family: "Karol Sans";
-    font-size: var(--text-display-small);
-    font-weight: var(--text-display-small--font-weight);
-    line-height: var(--text-display-small--line-height);
-    letter-spacing: var(--text-display-small--letter-spacing);
+    font-size: var(--text-display-sm);
+    font-weight: var(--text-display-sm--font-weight);
+    line-height: var(--text-display-sm--line-height);
+    letter-spacing: var(--text-display-sm--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 24px;
   }
-  .heading-large {
+  .heading-lg {
     font-family: "Twogether Sans";
-    font-size: var(--text-heading-large);
-    font-weight: var(--text-heading-large--font-weight);
-    line-height: var(--text-heading-large--line-height);
-    letter-spacing: var(--text-heading-large--letter-spacing);
+    font-size: var(--text-heading-lg);
+    font-weight: var(--text-heading-lg--font-weight);
+    line-height: var(--text-heading-lg--line-height);
+    letter-spacing: var(--text-heading-lg--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 24px;
   }
-  .heading-medium {
+  .heading-md {
     font-family: "Twogether Sans";
-    font-size: var(--text-heading-medium);
-    font-weight: var(--text-heading-medium--font-weight);
-    line-height: var(--text-heading-medium--line-height);
-    letter-spacing: var(--text-heading-medium--letter-spacing);
+    font-size: var(--text-heading-md);
+    font-weight: var(--text-heading-md--font-weight);
+    line-height: var(--text-heading-md--line-height);
+    letter-spacing: var(--text-heading-md--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 24px;
   }
-  .heading-small {
+  .heading-sm {
     font-family: "Twogether Sans";
-    font-size: var(--text-heading-small);
-    font-weight: var(--text-heading-small--font-weight);
-    line-height: var(--text-heading-small--line-height);
-    letter-spacing: var(--text-heading-small--letter-spacing);
+    font-size: var(--text-heading-sm);
+    font-weight: var(--text-heading-sm--font-weight);
+    line-height: var(--text-heading-sm--line-height);
+    letter-spacing: var(--text-heading-sm--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 24px;
   }
   /* Headings within components */
-  .title-large {
+  .title-lg {
     font-family: "Twogether Sans";
-    font-size: var(--text-title-large);
-    font-weight: var(--text-title-large--font-weight);
-    line-height: var(--text-title-large--line-height);
-    letter-spacing: var(--text-title-large--letter-spacing);
+    font-size: var(--text-title-lg);
+    font-weight: var(--text-title-lg--font-weight);
+    line-height: var(--text-title-lg--line-height);
+    letter-spacing: var(--text-title-lg--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 16px;
   }
   /* Headings within components */
-  .title-medium {
+  .title-md {
     font-family: "Twogether Sans";
-    font-size: var(--text-title-medium);
-    font-weight: var(--text-title-medium--font-weight);
-    line-height: var(--text-title-medium--line-height);
-    letter-spacing: var(--text-title-medium--letter-spacing);
+    font-size: var(--text-title-md);
+    font-weight: var(--text-title-md--font-weight);
+    line-height: var(--text-title-md--line-height);
+    letter-spacing: var(--text-title-md--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 16px;
   }
-  .title-small {
+  .title-sm {
     font-family: "Twogether Sans";
-    font-size: var(--text-title-small);
-    font-weight: var(--text-title-small--font-weight);
-    line-height: var(--text-title-small--line-height);
-    letter-spacing: var(--text-title-small--letter-spacing);
+    font-size: var(--text-title-sm);
+    font-weight: var(--text-title-sm--font-weight);
+    line-height: var(--text-title-sm--line-height);
+    letter-spacing: var(--text-title-sm--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 16px;
   }
-  .body-large {
+  .body-lg {
     font-family: "Twogether Sans";
-    font-size: var(--text-body-large);
-    font-weight: var(--text-body-large--font-weight);
-    line-height: var(--text-body-large--line-height);
-    letter-spacing: var(--text-body-large--letter-spacing);
+    font-size: var(--text-body-lg);
+    font-weight: var(--text-body-lg--font-weight);
+    line-height: var(--text-body-lg--line-height);
+    letter-spacing: var(--text-body-lg--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 24px;
   }
   /* Buttons, Links */
-  .body-medium {
+  .body-md {
     font-family: "Twogether Sans";
-    font-size: var(--text-body-medium);
-    font-weight: var(--text-body-medium--font-weight);
-    line-height: var(--text-body-medium--line-height);
-    letter-spacing: var(--text-body-medium--letter-spacing);
+    font-size: var(--text-body-md);
+    font-weight: var(--text-body-md--font-weight);
+    line-height: var(--text-body-md--line-height);
+    letter-spacing: var(--text-body-md--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 16px;
   }
-  .body-small {
+  .body-sm {
     font-family: "Twogether Sans";
-    font-size: var(--text-body-small);
-    font-weight: var(--text-body-small--font-weight);
-    line-height: var(--text-body-small--line-height);
-    letter-spacing: var(--text-body-small--letter-spacing);
+    font-size: var(--text-body-sm);
+    font-weight: var(--text-body-sm--font-weight);
+    line-height: var(--text-body-sm--line-height);
+    letter-spacing: var(--text-body-sm--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 16px;
   }
-  .label-large {
+  .label-lg {
     font-family: "Twogether Sans";
-    font-size: var(--text-label-large);
-    font-weight: var(--text-label-large--font-weight);
-    line-height: var(--text-label-large--line-height);
-    letter-spacing: var(--text-label-large--letter-spacing);
+    font-size: var(--text-label-lg);
+    font-weight: var(--text-label-lg--font-weight);
+    line-height: var(--text-label-lg--line-height);
+    letter-spacing: var(--text-label-lg--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 0px;
   }
-  .label-medium {
+  .label-md {
     font-family: "Twogether Sans";
-    font-size: var(--text-label-medium);
-    font-weight: var(--text-label-medium--font-weight);
-    line-height: var(--text-label-medium--line-height);
-    letter-spacing: var(--text-label-medium--letter-spacing);
+    font-size: var(--text-label-md);
+    font-weight: var(--text-label-md--font-weight);
+    line-height: var(--text-label-md--line-height);
+    letter-spacing: var(--text-label-md--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
     margin-bottom: 0px;
   }
-  .label-small {
+  .label-sm {
     font-family: "Twogether Sans";
-    font-size: var(--text-label-small);
-    font-weight: var(--text-label-small--font-weight);
-    line-height: var(--text-label-small--line-height);
-    letter-spacing: var(--text-label-small--letter-spacing);
+    font-size: var(--text-label-sm);
+    font-weight: var(--text-label-sm--font-weight);
+    line-height: var(--text-label-sm--line-height);
+    letter-spacing: var(--text-label-sm--letter-spacing);
     text-decoration: none;
     text-transform: none;
     text-indent: 0px;
