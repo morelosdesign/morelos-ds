@@ -1,75 +1,75 @@
 {
   "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
   "display": {
-    "large": {
+    "lg": {
       "value": "600 {sem.display.l.font-size}/120% {core.font-family.primary}",
       "type": "typography"
     },
-    "medium": {
+    "md": {
       "value": "600 {sem.display.m.font-size}/120% {core.font-family.primary}",
       "type": "typography",
       "description": "Hero title"
     },
-    "small": {
+    "sm": {
       "value": "600 {sem.display.s.font-size}/120% {core.font-family.primary}",
       "type": "typography"
     }
   },
   "heading": {
-    "large": {
+    "lg": {
       "value": "400 {sem.heading.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     },
-    "medium": {
+    "md": {
       "value": "400 {sem.heading.m.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     },
-    "small": {
+    "sm": {
       "value": "400 {sem.heading.s.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "title": {
-    "large": {
+    "lg": {
       "value": "300 {sem.title.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography",
       "description": "Headings within components"
     },
-    "medium": {
+    "md": {
       "value": "400 {sem.title.m.font-size}/120% {core.font-family.secondary}",
       "type": "typography",
       "description": "Headings within components"
     },
-    "small": {
+    "sm": {
       "value": "400 {sem.title.s.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "body": {
-    "large": {
+    "lg": {
       "value": "300 {sem.body.l.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
-    "medium": {
+    "md": {
       "value": "300 {sem.body.m.font-size}/140% {core.font-family.secondary}",
       "type": "typography",
       "description": "Buttons, Links"
     },
-    "small": {
+    "sm": {
       "value": "300 {sem.body.s.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "label": {
-    "large": {
+    "lg": {
       "value": "300 {sem.label.l.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
-    "medium": {
+    "md": {
       "value": "300 {sem.label.m.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
-    "small": {
+    "sm": {
       "value": "300 {sem.label.s.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     }

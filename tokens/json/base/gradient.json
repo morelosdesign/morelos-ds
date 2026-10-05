@@ -6,8 +6,8 @@
       "type": "gradient"
     }
   },
-  "border": {
-    "glass": {
+  "glass": {
+    "border": {
       "value": "linear-gradient(180deg, rgba({sem.border.highest}, 1) 0%, #ffffff00 100%)",
       "type": "gradient"
     }
