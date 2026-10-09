@@ -3,7 +3,7 @@
  */
 
 :root {
-  --font-family-core-font-family-primary: "Karol Sans";
-  --font-family-core-font-family-secondary: "Twogether Sans";
   --font-family-core-font-family-tertiary: "Quetzalli Sans";
+  --font-family-core-font-family-secondary: "Twogether Sans";
+  --font-family-core-font-family-primary: "Karol Sans";
 }
