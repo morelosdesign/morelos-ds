@@ -2,45 +2,25 @@
   "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
   "core": {
     "font-weight": {
-      "light": {
-        "value": "Light",
-        "type": "string"
-      },
-      "regular": {
-        "value": "Regular",
+      "semibold": {
+        "value": "Semibold",
         "type": "string"
       },
       "medium": {
         "value": "Medium",
         "type": "string"
       },
-      "semibold": {
-        "value": "Semibold",
+      "regular": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "light": {
+        "value": "Light",
         "type": "string"
       }
     }
   },
   "sem": {
-    "display": {
-      "l": {
-        "font-weight": {
-          "value": "{core.font-weight.regular}",
-          "type": "string"
-        }
-      },
-      "m": {
-        "font-weight": {
-          "value": "{core.font-weight.regular}",
-          "type": "string"
-        }
-      },
-      "s": {
-        "font-weight": {
-          "value": "{core.font-weight.regular}",
-          "type": "string"
-        }
-      }
-    },
     "heading": {
       "l": {
         "font-weight": {
@@ -68,13 +48,13 @@
           "type": "string"
         }
       },
-      "m": {
+      "s": {
         "font-weight": {
           "value": "{core.font-weight.regular}",
           "type": "string"
         }
       },
-      "s": {
+      "m": {
         "font-weight": {
           "value": "{core.font-weight.regular}",
           "type": "string"
@@ -101,7 +81,33 @@
         }
       }
     },
+    "display": {
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      }
+    },
     "label": {
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      },
       "l": {
         "font-weight": {
           "value": "{core.font-weight.light}",
@@ -109,12 +115,6 @@
         }
       },
       "m": {
-        "font-weight": {
-          "value": "{core.font-weight.light}",
-          "type": "string"
-        }
-      },
-      "s": {
         "font-weight": {
           "value": "{core.font-weight.light}",
           "type": "string"

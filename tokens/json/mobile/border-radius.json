@@ -6,20 +6,20 @@
         "value": "999px",
         "type": "borderRadius"
       },
-      "xs": {
-        "value": "{core.050}",
-        "type": "borderRadius"
-      },
-      "sm": {
-        "value": "{core.100}",
-        "type": "borderRadius"
-      },
       "md": {
         "value": "{core.200}",
         "type": "borderRadius"
       },
+      "xs": {
+        "value": "{core.050}",
+        "type": "borderRadius"
+      },
       "lg": {
         "value": "{core.300}",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "{core.100}",
         "type": "borderRadius"
       },
       "xl": {
