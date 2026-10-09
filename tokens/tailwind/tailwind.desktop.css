@@ -9,107 +9,107 @@
   --color-*: initial;
 
   /* Dimension */
-  --spacing-core-025: 2px;
-  --spacing-core-200: 16px;
-  --spacing-core-300: 24px;
-  --spacing-core-600: 48px;
-  --spacing-core-1500: 120px;
-  --spacing-core-3100: 248px;
-  --spacing-core-7500: 600px;
   --spacing-core-18000: 1440px;
-  --spacing-core-050: 4px;
+  --spacing-core-4200: 336px;
+  --spacing-core-200: 16px;
+  --spacing-core-font-weight-semibold: 600px;
+  --spacing-core-font-weight-light: 300px;
   --spacing-core-100: 8px;
   --spacing-core-150: 12px;
-  --spacing-core-4200: 336px;
-  --spacing-core-4500: 360px;
+  --spacing-core-050: 4px;
+  --spacing-core-font-weight-medium: 500px;
+  --spacing-core-font-weight-regular: 400px;
   --spacing-core-6000: 480px;
   --spacing-core-9600: 768px;
+  --spacing-core-1500: 120px;
+  --spacing-core-4500: 360px;
+  --spacing-core-025: 2px;
+  --spacing-core-7500: 600px;
   --spacing-core-12800: 1024px;
-  --spacing-core-font-weight-light: 300px;
-  --spacing-core-font-weight-regular: 400px;
-  --spacing-core-font-weight-medium: 500px;
-  --spacing-core-font-weight-semibold: 600px;
-  --spacing-sem-label-l-font-weight: var(--spacing-core-font-weight-light);
-  --spacing-sem-label-m-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-core-600: 48px;
+  --spacing-core-300: 24px;
+  --spacing-core-3100: 248px;
+  --spacing-sem-body-l-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-title-m-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-title-l-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-display-s-font-weight: var(--spacing-core-font-weight-semibold);
+  --spacing-sem-heading-m-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-display-m-font-weight: var(--spacing-core-font-weight-semibold);
+  --spacing-sem-heading-s-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-display-l-font-weight: var(--spacing-core-font-weight-semibold);
   --spacing-sem-label-s-font-weight: var(--spacing-core-font-weight-light);
   --spacing-sem-body-s-font-weight: var(--spacing-core-font-weight-light);
   --spacing-sem-body-m-font-weight: var(--spacing-core-font-weight-light);
-  --spacing-sem-body-l-font-weight: var(--spacing-core-font-weight-light);
-  --spacing-sem-title-l-font-weight: var(--spacing-core-font-weight-light);
-  --spacing-sem-title-m-font-weight: var(--spacing-core-font-weight-regular);
   --spacing-sem-title-s-font-weight: var(--spacing-core-font-weight-regular);
-  --spacing-sem-heading-s-font-weight: var(--spacing-core-font-weight-regular);
-  --spacing-sem-heading-m-font-weight: var(--spacing-core-font-weight-regular);
+  --spacing-sem-label-l-font-weight: var(--spacing-core-font-weight-light);
+  --spacing-sem-label-m-font-weight: var(--spacing-core-font-weight-light);
   --spacing-sem-heading-l-font-weight: var(--spacing-core-font-weight-regular);
-  --spacing-sem-display-l-font-weight: var(--spacing-core-font-weight-semibold);
-  --spacing-sem-display-m-font-weight: var(--spacing-core-font-weight-semibold);
-  --spacing-sem-display-s-font-weight: var(--spacing-core-font-weight-semibold);
-
-  /* FontFamily */
-  --font-core-font-family-primary: "Karol Sans";
-  --font-core-font-family-secondary: "Twogether Sans";
-  --font-core-font-family-tertiary: "Quetzalli Sans";
 
   /* FontSize */
   --text-core-font-size-50: 12px;
-  --text-core-font-size-75: 14px;
-  --text-core-font-size-100: 16px;
-  --text-core-font-size-125: 18px;
-  --text-core-font-size-150: 20px;
-  --text-core-font-size-175: 22px;
-  --text-core-font-size-200: 24px;
-  --text-core-font-size-250: 28px;
-  --text-core-font-size-300: 32px;
-  --text-core-font-size-350: 36px;
-  --text-core-font-size-400: 40px;
-  --text-core-font-size-425: 42px;
-  --text-core-font-size-500: 48px;
-  --text-core-font-size-550: 52px;
   --text-core-font-size-700: 64px;
+  --text-core-font-size-125: 18px;
+  --text-core-font-size-75: 14px;
+  --text-core-font-size-250: 28px;
+  --text-core-font-size-425: 42px;
+  --text-core-font-size-200: 24px;
+  --text-core-font-size-400: 40px;
+  --text-core-font-size-325: 34px;
+  --text-core-font-size-175: 22px;
+  --text-core-font-size-300: 32px;
+  --text-core-font-size-150: 20px;
   --text-core-font-size-850: 76px;
+  --text-core-font-size-550: 52px;
+  --text-core-font-size-100: 16px;
+  --text-core-font-size-500: 48px;
+  --text-core-font-size-350: 36px;
   --text-core-175: 14px;
   --text-core-450: 36px;
-  --text-core-font-size-325: 34px;
   --text-sem-display-l-font-size: var(--text-core-font-size-850);
-  --text-sem-display-m-font-size: var(--text-core-font-size-700);
-  --text-sem-display-s-font-size: var(--text-core-font-size-550);
-  --text-sem-heading-l-font-size: var(--text-core-font-size-500);
-  --text-sem-heading-m-font-size: var(--text-core-font-size-425);
-  --text-sem-heading-s-font-size: var(--text-core-font-size-300);
-  --text-sem-title-l-font-size: var(--text-core-font-size-250);
-  --text-sem-title-m-font-size: var(--text-core-font-size-175);
-  --text-sem-title-s-font-size: var(--text-core-font-size-150);
-  --text-sem-body-l-font-size: var(--text-core-font-size-150);
-  --text-sem-body-m-font-size: var(--text-core-font-size-100);
   --text-sem-body-s-font-size: var(--text-core-font-size-75);
-  --text-sem-label-l-font-size: var(--text-core-font-size-100);
+  --text-sem-heading-l-font-size: var(--text-core-font-size-500);
   --text-sem-label-m-font-size: var(--text-core-font-size-75);
+  --text-sem-title-s-font-size: var(--text-core-font-size-150);
+  --text-sem-heading-s-font-size: var(--text-core-font-size-300);
+  --text-sem-label-l-font-size: var(--text-core-font-size-100);
+  --text-sem-body-m-font-size: var(--text-core-font-size-100);
+  --text-sem-title-m-font-size: var(--text-core-font-size-175);
+  --text-sem-title-l-font-size: var(--text-core-font-size-250);
+  --text-sem-heading-m-font-size: var(--text-core-font-size-425);
+  --text-sem-display-s-font-size: var(--text-core-font-size-550);
   --text-sem-label-s-font-size: var(--text-core-font-size-50);
+  --text-sem-body-l-font-size: var(--text-core-font-size-150);
+  --text-sem-display-m-font-size: var(--text-core-font-size-700);
 
   /* BorderRadius */
   --radius-sem-border-radius-round: 999px;
-  --radius-sem-border-radius-xs: var(--spacing-core-050);
-  --radius-sem-border-radius-sm: var(--spacing-core-100);
   --radius-sem-border-radius-md: var(--spacing-core-200);
+  --radius-sem-border-radius-xs: var(--spacing-core-050);
   --radius-sem-border-radius-lg: var(--spacing-core-300);
+  --radius-sem-border-radius-sm: var(--spacing-core-100);
   --radius-sem-border-radius-xl: var(--text-core-450);
   --radius-sem-border-radius-focus: var(--spacing-core-025);
 
+  /* FontFamily */
+  --font-core-font-family-tertiary: "Quetzalli Sans";
+  --font-core-font-family-secondary: "Twogether Sans";
+  --font-core-font-family-primary: "Karol Sans";
+
   /* Size */
   --spacing-sem-width-md: var(--spacing-core-6000);
+  --spacing-sem-width-main: var(--spacing-core-18000);
   --spacing-sem-width-2xs: var(--spacing-core-1500);
   --spacing-sem-width-xs: var(--spacing-core-3100);
-  --spacing-sem-width-sm: var(--spacing-core-4200);
   --spacing-sem-width-lg: var(--spacing-core-7500);
-  --spacing-sem-width-main: var(--spacing-core-18000);
+  --spacing-sem-width-sm: var(--spacing-core-4200);
 
   /* Space */
-  --spacing-sem-gap-2xs: var(--spacing-core-050);
-  --spacing-sem-gap-xs: var(--spacing-core-100);
-  --spacing-sem-gap-sm: var(--spacing-core-150);
-  --spacing-sem-gap-md: var(--spacing-core-200);
-  --spacing-sem-gap-lg: var(--spacing-core-300);
   --spacing-sem-gap-xl: var(--spacing-core-600);
+  --spacing-sem-gap-md: var(--spacing-core-200);
+  --spacing-sem-gap-sm: var(--spacing-core-150);
+  --spacing-sem-gap-lg: var(--spacing-core-300);
+  --spacing-sem-gap-xs: var(--spacing-core-100);
   /* Espaciado por defecto entre secciones */
   --spacing-sem-gap-section-gap: var(--spacing-core-1500);
+  --spacing-sem-gap-2xs: var(--spacing-core-050);
 }
