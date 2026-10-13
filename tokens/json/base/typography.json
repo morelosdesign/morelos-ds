@@ -5,45 +5,20 @@
       "value": "300 {sem.label.s.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     },
-    "lg": {
-      "value": "300 {sem.label.l.font-size}/140% {core.font-family.secondary}",
-      "type": "typography"
-    },
     "md": {
       "value": "300 {sem.label.m.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
-    }
-  },
-  "display": {
-    "md": {
-      "value": "500 {sem.display.m.font-size}/120% Twogether Sans",
-      "type": "typography",
-      "description": "Hero title"
-    },
-    "sm": {
-      "value": "500 {sem.display.s.font-size}/120% Twogether Sans",
-      "type": "typography"
     },
     "lg": {
-      "value": "500 {sem.display.l.font-size}/120% Twogether Sans",
-      "type": "typography"
-    }
-  },
-  "heading": {
-    "lg": {
-      "value": "400 {sem.heading.l.font-size}/120% {core.font-family.secondary}",
-      "type": "typography"
-    },
-    "md": {
-      "value": "400 {sem.heading.m.font-size}/120% {core.font-family.secondary}",
-      "type": "typography"
-    },
-    "sm": {
-      "value": "400 {sem.heading.s.font-size}/120% {core.font-family.secondary}",
+      "value": "300 {sem.label.l.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     }
   },
   "title": {
+    "sm": {
+      "value": "400 {sem.title.s.font-size}/120% {core.font-family.secondary}",
+      "type": "typography"
+    },
     "lg": {
       "value": "300 {sem.title.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography",
@@ -53,17 +28,24 @@
       "value": "400 {sem.title.m.font-size}/120% {core.font-family.secondary}",
       "type": "typography",
       "description": "Headings within components"
+    }
+  },
+  "display": {
+    "lg": {
+      "value": "500 {sem.display.l.font-size}/120% Twogether Sans",
+      "type": "typography"
     },
     "sm": {
-      "value": "400 {sem.title.s.font-size}/120% {core.font-family.secondary}",
+      "value": "500 {sem.display.s.font-size}/120% Twogether Sans",
       "type": "typography"
+    },
+    "md": {
+      "value": "500 {sem.display.m.font-size}/120% Twogether Sans",
+      "type": "typography",
+      "description": "Hero title"
     }
   },
   "body": {
-    "lg": {
-      "value": "300 {sem.body.l.font-size}/140% {core.font-family.secondary}",
-      "type": "typography"
-    },
     "md": {
       "value": "300 {sem.body.m.font-size}/140% {core.font-family.secondary}",
       "type": "typography",
@@ -71,6 +53,24 @@
     },
     "sm": {
       "value": "300 {sem.body.s.font-size}/140% {core.font-family.secondary}",
+      "type": "typography"
+    },
+    "lg": {
+      "value": "300 {sem.body.l.font-size}/140% {core.font-family.secondary}",
+      "type": "typography"
+    }
+  },
+  "heading": {
+    "md": {
+      "value": "400 {sem.heading.m.font-size}/120% {core.font-family.secondary}",
+      "type": "typography"
+    },
+    "sm": {
+      "value": "400 {sem.heading.s.font-size}/120% {core.font-family.secondary}",
+      "type": "typography"
+    },
+    "lg": {
+      "value": "400 {sem.heading.l.font-size}/120% {core.font-family.secondary}",
       "type": "typography"
     }
   }
