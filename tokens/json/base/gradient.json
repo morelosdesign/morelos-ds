@@ -1,12 +1,12 @@
 {
   "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
-  "glass": {
+  "colour-sem-glass": {
     "border": {
-      "value": "linear-gradient(180deg, rgba({sem.border.highest}, 1) 0%, #ffffff00 100%)",
+      "value": "linear-gradient(180deg, #6d7b68 0%, #ffffff00 50%)",
       "type": "gradient"
     }
   },
-  "gradient": {
+  "color-sem-gradient": {
     "accent": {
       "value": "radial-gradient(circle, #a54277 0%, #773357 100%)",
       "type": "gradient"

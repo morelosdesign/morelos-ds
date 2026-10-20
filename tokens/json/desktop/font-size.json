@@ -81,42 +81,42 @@
     }
   },
   "sem": {
-    "display": {
-      "l": {
-        "font-size": {
-          "value": "{core.font-size.850}",
-          "type": "fontSize"
-        }
-      },
-      "s": {
-        "font-size": {
-          "value": "{core.font-size.550}",
-          "type": "fontSize"
-        }
-      },
-      "m": {
-        "font-size": {
-          "value": "{core.font-size.700}",
-          "type": "fontSize"
-        }
-      }
-    },
     "title": {
-      "s": {
-        "font-size": {
-          "value": "{core.font-size.150}",
-          "type": "fontSize"
-        }
-      },
       "m": {
         "font-size": {
           "value": "{core.font-size.175}",
           "type": "fontSize"
         }
       },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.150}",
+          "type": "fontSize"
+        }
+      },
       "l": {
         "font-size": {
           "value": "{core.font-size.250}",
+          "type": "fontSize"
+        }
+      }
+    },
+    "label": {
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.75}",
+          "type": "fontSize"
+        }
+      },
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.100}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.50}",
           "type": "fontSize"
         }
       }
@@ -141,22 +141,22 @@
         }
       }
     },
-    "label": {
+    "display": {
       "l": {
         "font-size": {
-          "value": "{core.font-size.100}",
-          "type": "fontSize"
-        }
-      },
-      "m": {
-        "font-size": {
-          "value": "{core.font-size.75}",
+          "value": "{core.font-size.850}",
           "type": "fontSize"
         }
       },
       "s": {
         "font-size": {
-          "value": "{core.font-size.50}",
+          "value": "{core.font-size.550}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.700}",
           "type": "fontSize"
         }
       }

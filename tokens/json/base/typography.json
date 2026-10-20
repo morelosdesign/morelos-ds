@@ -1,19 +1,5 @@
 {
   "_comment": "Este archivo ha sido generado automáticamente por el sistema de automatización de Supernova.io y no debe modificarse manualmente. Para modificar el formato o el contenido de este archivo, póngase en contacto con su equipo de diseño (alvaro.liniers@flat26.com).",
-  "label": {
-    "sm": {
-      "value": "300 {sem.label.s.font-size}/140% {core.font-family.secondary}",
-      "type": "typography"
-    },
-    "md": {
-      "value": "300 {sem.label.m.font-size}/140% {core.font-family.secondary}",
-      "type": "typography"
-    },
-    "lg": {
-      "value": "300 {sem.label.l.font-size}/140% {core.font-family.secondary}",
-      "type": "typography"
-    }
-  },
   "title": {
     "sm": {
       "value": "400 {sem.title.s.font-size}/120% {core.font-family.secondary}",
@@ -57,6 +43,20 @@
     },
     "lg": {
       "value": "300 {sem.body.l.font-size}/140% {core.font-family.secondary}",
+      "type": "typography"
+    }
+  },
+  "label": {
+    "md": {
+      "value": "300 {sem.label.m.font-size}/140% {core.font-family.secondary}",
+      "type": "typography"
+    },
+    "sm": {
+      "value": "300 {sem.label.s.font-size}/140% {core.font-family.secondary}",
+      "type": "typography"
+    },
+    "lg": {
+      "value": "300 {sem.label.l.font-size}/140% {core.font-family.secondary}",
       "type": "typography"
     }
   },

@@ -55,60 +55,6 @@
         "type": "color"
       }
     },
-    "piedra": {
-      "5": {
-        "value": "#11120a",
-        "type": "color"
-      },
-      "10": {
-        "value": "#1b1c15",
-        "type": "color"
-      },
-      "15": {
-        "value": "#26261e",
-        "type": "color"
-      },
-      "20": {
-        "value": "#303129",
-        "type": "color"
-      },
-      "30": {
-        "value": "#47473e",
-        "type": "color"
-      },
-      "40": {
-        "value": "#5f5f55",
-        "type": "color"
-      },
-      "50": {
-        "value": "#78786d",
-        "type": "color"
-      },
-      "60": {
-        "value": "#929186",
-        "type": "color"
-      },
-      "70": {
-        "value": "#acaca0",
-        "type": "color"
-      },
-      "80": {
-        "value": "#cbcabe",
-        "type": "color"
-      },
-      "90": {
-        "value": "#e4e3d6",
-        "type": "color"
-      },
-      "95": {
-        "value": "#ebeade",
-        "type": "color"
-      },
-      "97": {
-        "value": "#f5f4f2",
-        "type": "color"
-      }
-    },
     "arena": {
       "10": {
         "value": "#2a1800",
@@ -349,6 +295,60 @@
         "type": "color"
       }
     },
+    "piedra": {
+      "5": {
+        "value": "#11120a",
+        "type": "color"
+      },
+      "10": {
+        "value": "#1b1c15",
+        "type": "color"
+      },
+      "15": {
+        "value": "#26261e",
+        "type": "color"
+      },
+      "20": {
+        "value": "#303129",
+        "type": "color"
+      },
+      "30": {
+        "value": "#47473e",
+        "type": "color"
+      },
+      "40": {
+        "value": "#5f5f55",
+        "type": "color"
+      },
+      "50": {
+        "value": "#78786d",
+        "type": "color"
+      },
+      "60": {
+        "value": "#929186",
+        "type": "color"
+      },
+      "70": {
+        "value": "#acaca0",
+        "type": "color"
+      },
+      "80": {
+        "value": "#cbcabe",
+        "type": "color"
+      },
+      "90": {
+        "value": "#e4e3d6",
+        "type": "color"
+      },
+      "95": {
+        "value": "#ebeade",
+        "type": "color"
+      },
+      "97": {
+        "value": "#f5f4f2",
+        "type": "color"
+      }
+    },
     "mora": {
       "10": {
         "value": "#3c0126",
@@ -422,74 +422,6 @@
       },
       "95": {
         "value": "#ffeaea",
-        "type": "color"
-      }
-    },
-    "blue-informative": {
-      "30": {
-        "value": "#79a6ff",
-        "type": "color"
-      },
-      "40": {
-        "value": "#3f80ff",
-        "type": "color"
-      },
-      "50": {
-        "value": "#3266cb",
-        "type": "color"
-      },
-      "60": {
-        "value": "#254c97",
-        "type": "color"
-      },
-      "70": {
-        "value": "#193264",
-        "type": "color"
-      },
-      "80": {
-        "value": "#b2ccff",
-        "type": "color"
-      },
-      "90": {
-        "value": "#ecf2ff",
-        "type": "color"
-      }
-    },
-    "tierra": {
-      "10": {
-        "value": "#190f0b",
-        "type": "color"
-      },
-      "20": {
-        "value": "#321e16",
-        "type": "color"
-      },
-      "30": {
-        "value": "#4a2c20",
-        "type": "color"
-      },
-      "40": {
-        "value": "#633b2b",
-        "type": "color"
-      },
-      "50": {
-        "value": "#7c4a36",
-        "type": "color"
-      },
-      "60": {
-        "value": "#966e5e",
-        "type": "color"
-      },
-      "70": {
-        "value": "#b09286",
-        "type": "color"
-      },
-      "80": {
-        "value": "#cbb7af",
-        "type": "color"
-      },
-      "90": {
-        "value": "#e5dbd7",
         "type": "color"
       }
     },
@@ -568,12 +500,84 @@
         "value": "#edf4d1",
         "type": "color"
       }
+    },
+    "blue-informative": {
+      "30": {
+        "value": "#79a6ff",
+        "type": "color"
+      },
+      "40": {
+        "value": "#3f80ff",
+        "type": "color"
+      },
+      "50": {
+        "value": "#3266cb",
+        "type": "color"
+      },
+      "60": {
+        "value": "#254c97",
+        "type": "color"
+      },
+      "70": {
+        "value": "#193264",
+        "type": "color"
+      },
+      "80": {
+        "value": "#b2ccff",
+        "type": "color"
+      },
+      "90": {
+        "value": "#ecf2ff",
+        "type": "color"
+      }
+    },
+    "tierra": {
+      "10": {
+        "value": "#190f0b",
+        "type": "color"
+      },
+      "20": {
+        "value": "#321e16",
+        "type": "color"
+      },
+      "30": {
+        "value": "#4a2c20",
+        "type": "color"
+      },
+      "40": {
+        "value": "#633b2b",
+        "type": "color"
+      },
+      "50": {
+        "value": "#7c4a36",
+        "type": "color"
+      },
+      "60": {
+        "value": "#966e5e",
+        "type": "color"
+      },
+      "70": {
+        "value": "#b09286",
+        "type": "color"
+      },
+      "80": {
+        "value": "#cbb7af",
+        "type": "color"
+      },
+      "90": {
+        "value": "#e5dbd7",
+        "type": "color"
+      }
     }
   },
   "sem": {
     "support": {
       "on-error": {
         "value": "{core.global.100}",
+        "type": "color"
+      },
+      "on-success-low": {
+        "value": "{core.green-success.50}",
         "type": "color"
       },
       "disabled": {
@@ -586,10 +590,6 @@
       },
       "error-low": {
         "value": "{core.red-warning.90}",
-        "type": "color"
-      },
-      "on-success-low": {
-        "value": "{core.green-success.50}",
         "type": "color"
       },
       "warning-low": {
@@ -662,20 +662,20 @@
         "value": "{core.global.0}",
         "type": "color"
       },
-      "inverse": {
-        "value": "{core.global.100}",
-        "type": "color"
-      },
       "emphasis": {
         "value": "{core.arena.40}",
         "type": "color"
       },
-      "inverse-low": {
-        "value": "{core.global.90}",
-        "type": "color"
-      },
       "low": {
         "value": "{core.global.20}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{core.global.100}",
+        "type": "color"
+      },
+      "inverse-low": {
+        "value": "{core.global.90}",
         "type": "color"
       }
     },
@@ -726,36 +726,6 @@
       },
       "primary": {
         "value": "{core.mora.20}",
-        "type": "color"
-      }
-    },
-    "border": {
-      "highest": {
-        "value": "{core.bosque.20}",
-        "type": "color"
-      },
-      "inverse-md": {
-        "value": "{core.opacity.white.250}",
-        "type": "color"
-      },
-      "high": {
-        "value": "{core.piedra.40}",
-        "type": "color"
-      },
-      "low": {
-        "value": "{core.piedra.70}",
-        "type": "color"
-      },
-      "inverse-low": {
-        "value": "{core.opacity.white.250}",
-        "type": "color"
-      },
-      "md": {
-        "value": "{core.piedra.50}",
-        "type": "color"
-      },
-      "inverse-highest": {
-        "value": "{core.global.100}",
         "type": "color"
       }
     },
@@ -818,6 +788,36 @@
         "value": "{core.opacity.white.250}",
         "type": "color"
       }
+    },
+    "border": {
+      "inverse-md": {
+        "value": "{core.opacity.white.250}",
+        "type": "color"
+      },
+      "high": {
+        "value": "{core.piedra.40}",
+        "type": "color"
+      },
+      "low": {
+        "value": "{core.piedra.70}",
+        "type": "color"
+      },
+      "inverse-low": {
+        "value": "{core.opacity.white.250}",
+        "type": "color"
+      },
+      "md": {
+        "value": "{core.piedra.50}",
+        "type": "color"
+      },
+      "inverse-highest": {
+        "value": "{core.global.100}",
+        "type": "color"
+      },
+      "highest": {
+        "value": "{core.bosque.20}",
+        "type": "color"
+      }
     }
   },
   "comp": {
@@ -827,12 +827,12 @@
           "value": "{core.bosque.10}",
           "type": "color"
         },
-        "bg-high": {
-          "value": "{core.bosque.10}",
-          "type": "color"
-        },
         "bg-low": {
           "value": "{core.bosque.80}",
+          "type": "color"
+        },
+        "bg-high": {
+          "value": "{core.bosque.10}",
           "type": "color"
         },
         "on-bg-high": {
