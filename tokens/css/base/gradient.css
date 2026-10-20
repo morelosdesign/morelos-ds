@@ -3,6 +3,6 @@
  */
 
 :root {
-  --gradient-glass-border: linear-gradient(180deg, rgba(var(--color-sem-border-highest), 1) 0%, #ffffff00 100%);
-  --gradient-accent: radial-gradient(circle, #a54277 0%, #773357 100%);
+  --gradient-colour-sem-glass-border: linear-gradient(180deg, #6d7b68 0%, #ffffff00 50%);
+  --gradient-color-sem-gradient-accent: radial-gradient(circle, #a54277 0%, #773357 100%);
 }

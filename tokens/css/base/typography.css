@@ -3,7 +3,6 @@
  */
 
 :root {
-  --typography-label-sm: 300 var(--font-size-sem-label-s-font-size)/140% var(--font-family-core-font-family-secondary);
   --typography-title-sm: 400 var(--font-size-sem-title-s-font-size)/120% var(--font-family-core-font-family-secondary);
   --typography-display-lg: 500 var(--font-size-sem-display-l-font-size)/120% "Twogether Sans";
   /* Buttons, Links */
@@ -11,6 +10,7 @@
   /* Headings within components */
   --typography-title-lg: 300 var(--font-size-sem-title-l-font-size)/120% var(--font-family-core-font-family-secondary);
   --typography-label-md: 300 var(--font-size-sem-label-m-font-size)/140% var(--font-family-core-font-family-secondary);
+  --typography-label-sm: 300 var(--font-size-sem-label-s-font-size)/140% var(--font-family-core-font-family-secondary);
   --typography-heading-md: 400 var(--font-size-sem-heading-m-font-size)/120% var(--font-family-core-font-family-secondary);
   --typography-heading-sm: 400 var(--font-size-sem-heading-s-font-size)/120% var(--font-family-core-font-family-secondary);
   /* Headings within components */
