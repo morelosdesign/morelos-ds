@@ -82,41 +82,21 @@
   },
   "sem": {
     "title": {
-      "m": {
-        "font-size": {
-          "value": "{core.font-size.150}",
-          "type": "fontSize"
-        }
-      },
       "s": {
         "font-size": {
           "value": "{core.font-size.125}",
           "type": "fontSize"
         }
       },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.150}",
+          "type": "fontSize"
+        }
+      },
       "l": {
         "font-size": {
           "value": "{core.font-size.175}",
-          "type": "fontSize"
-        }
-      }
-    },
-    "label": {
-      "m": {
-        "font-size": {
-          "value": "{core.font-size.75}",
-          "type": "fontSize"
-        }
-      },
-      "l": {
-        "font-size": {
-          "value": "{core.font-size.100}",
-          "type": "fontSize"
-        }
-      },
-      "s": {
-        "font-size": {
-          "value": "{core.font-size.50}",
           "type": "fontSize"
         }
       }
@@ -137,6 +117,26 @@
       "m": {
         "font-size": {
           "value": "{core.font-size.300}",
+          "type": "fontSize"
+        }
+      }
+    },
+    "label": {
+      "l": {
+        "font-size": {
+          "value": "{core.font-size.100}",
+          "type": "fontSize"
+        }
+      },
+      "m": {
+        "font-size": {
+          "value": "{core.font-size.75}",
+          "type": "fontSize"
+        }
+      },
+      "s": {
+        "font-size": {
+          "value": "{core.font-size.50}",
           "type": "fontSize"
         }
       }

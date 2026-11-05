@@ -81,26 +81,6 @@
         }
       }
     },
-    "display": {
-      "l": {
-        "font-weight": {
-          "value": "{core.font-weight.regular}",
-          "type": "string"
-        }
-      },
-      "s": {
-        "font-weight": {
-          "value": "{core.font-weight.regular}",
-          "type": "string"
-        }
-      },
-      "m": {
-        "font-weight": {
-          "value": "{core.font-weight.regular}",
-          "type": "string"
-        }
-      }
-    },
     "label": {
       "s": {
         "font-weight": {
@@ -117,6 +97,26 @@
       "m": {
         "font-weight": {
           "value": "{core.font-weight.light}",
+          "type": "string"
+        }
+      }
+    },
+    "display": {
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
+          "type": "string"
+        }
+      },
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.regular}",
           "type": "string"
         }
       }

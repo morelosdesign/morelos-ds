@@ -62,12 +62,12 @@
         "value": "600px",
         "type": "dimension"
       },
-      "regular": {
-        "value": "400px",
-        "type": "dimension"
-      },
       "medium": {
         "value": "500px",
+        "type": "dimension"
+      },
+      "regular": {
+        "value": "400px",
         "type": "dimension"
       },
       "light": {
@@ -75,36 +75,16 @@
         "type": "dimension"
       }
     },
-    "050": {
+    "025": {
       "value": "4px",
       "type": "dimension"
     },
-    "025": {
+    "050": {
       "value": "4px",
       "type": "dimension"
     }
   },
   "sem": {
-    "display": {
-      "l": {
-        "font-weight": {
-          "value": "{core.font-weight.semibold}",
-          "type": "dimension"
-        }
-      },
-      "m": {
-        "font-weight": {
-          "value": "{core.font-weight.semibold}",
-          "type": "dimension"
-        }
-      },
-      "s": {
-        "font-weight": {
-          "value": "{core.font-weight.semibold}",
-          "type": "dimension"
-        }
-      }
-    },
     "title": {
       "l": {
         "font-weight": {
@@ -141,6 +121,26 @@
       "l": {
         "font-weight": {
           "value": "{core.font-weight.regular}",
+          "type": "dimension"
+        }
+      }
+    },
+    "display": {
+      "m": {
+        "font-weight": {
+          "value": "{core.font-weight.semibold}",
+          "type": "dimension"
+        }
+      },
+      "l": {
+        "font-weight": {
+          "value": "{core.font-weight.semibold}",
+          "type": "dimension"
+        }
+      },
+      "s": {
+        "font-weight": {
+          "value": "{core.font-weight.semibold}",
           "type": "dimension"
         }
       }
