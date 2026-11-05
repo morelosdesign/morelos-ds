@@ -10,7 +10,6 @@
   --string-sem-heading-l-font-weight: var(--string-core-font-weight-regular);
   --string-sem-title-l-font-weight: var(--string-core-font-weight-light);
   --string-sem-body-l-font-weight: var(--string-core-font-weight-light);
-  --string-sem-display-l-font-weight: var(--string-core-font-weight-regular);
   --string-sem-heading-m-font-weight: var(--string-core-font-weight-regular);
   --string-sem-body-m-font-weight: var(--string-core-font-weight-light);
   --string-sem-label-s-font-weight: var(--string-core-font-weight-light);
@@ -21,5 +20,6 @@
   --string-sem-title-m-font-weight: var(--string-core-font-weight-regular);
   --string-sem-label-m-font-weight: var(--string-core-font-weight-light);
   --string-sem-display-s-font-weight: var(--string-core-font-weight-regular);
+  --string-sem-display-l-font-weight: var(--string-core-font-weight-regular);
   --string-sem-display-m-font-weight: var(--string-core-font-weight-regular);
 }
