@@ -6,12 +6,12 @@
         "value": "Karol Sans",
         "type": "fontFamily"
       },
-      "secondary": {
-        "value": "Twogether Sans",
-        "type": "fontFamily"
-      },
       "tertiary": {
         "value": "Quetzalli Sans",
+        "type": "fontFamily"
+      },
+      "secondary": {
+        "value": "Twogether Sans",
         "type": "fontFamily"
       }
     }
